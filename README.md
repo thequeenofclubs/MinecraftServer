@@ -2,6 +2,8 @@
 The server is currently using Minecraft 1.17.1  
 It's recommended to use optifine, which can be downloaded  [here](https://github.com/GabeThatGuy/MinecraftServer/raw/General-Info/Server-Resources/Optifine/OptiFine_1.17.1_HD_U_H1.jar "Download Optifine")  
 
+The Server also uses a resource pack, which should be installed automatically by Minecraft when you join the server. If it doesn't, you can grab it [here](https://github.com/GabeThatGuy/MinecraftServer/raw/General-Info/Server-Resources/Resource%20Pack/vane-resource-pack.zip)
+
 # Server Changelog  
 
 ## Major Update - November 16, 2021
