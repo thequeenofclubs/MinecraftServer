@@ -35,7 +35,10 @@ Enabled Server Whitelist to avoid unwanted and unknown people connecting to the 
 There were no removals this update.
 
 #### In-Progress Projects
-Chest Sorting System in Juli's Castle
+Chest Sorting System in Juli's Castle  
+Amusement Park  
+Treetop Trekking  
+McDonalds PlayPlace  
 
 
 #### Completed Projects
@@ -43,6 +46,7 @@ The City has been completed.
 The Pit has been completed.  
 The CN Tower has been completed.  
 The Subway System has been completed.  
+The XP farm in the end has been completed.
 
 #### Other Info
 A resource pack is now required to play on the server. When joining, just click allow and it will automatically install the resource pack. It's nothing to worry about, and it won't change any textures for blocks or anything. It's for the Vane plugin to allow its features to work.
