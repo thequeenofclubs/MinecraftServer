@@ -1,6 +1,6 @@
 # Server Info
 The server is currently using Minecraft 1.17.1  
-It's recommended to use optifine, which can be downloaded from here: http://optifine.net/download  
+It's recommended to use optifine, which can be downloaded from here: https://github.com/GabeThatGuy/MinecraftServer/raw/General-Info/Server-Resources/Optifine/OptiFine_1.17.1_HD_U_H1.jar  
 
 # Server Changelog  
 
