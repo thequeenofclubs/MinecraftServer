@@ -1,6 +1,6 @@
 # Server Info
 
-### Server IP Address: 96.54.0.152
+### Server IP Address: 99.246.96.44
 
 #### Version Info
 The server is currently using Minecraft 1.17.1  
