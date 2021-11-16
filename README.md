@@ -1,10 +1,18 @@
 # Server Info
+
+#### Version Info
 The server is currently using Minecraft 1.17.1  
+
+#### Dependencies
 It's recommended to use optifine, which can be downloaded  [here](https://github.com/GabeThatGuy/MinecraftServer/raw/General-Info/Server-Resources/Optifine/OptiFine_1.17.1_HD_U_H1.jar "Download Optifine")  
 
-The Server also uses a resource pack, which should be installed automatically by Minecraft when you join the server. If it doesn't, you can grab it [here](https://github.com/GabeThatGuy/MinecraftServer/raw/General-Info/Server-Resources/Resource%20Pack/vane-resource-pack.zip)
+The Server also uses a resource pack, which should be installed automatically by Minecraft when you join the server. If it doesn't, you can grab it [here](https://github.com/GabeThatGuy/MinecraftServer/raw/General-Info/Server-Resources/Resource%20Pack/vane-resource-pack.zip)  
 
-# <span style="color:red">Expected Downtime - November 16, 2021, 1:00pm to 8:30am on November 17.</span>
+#### <span style="color:blue">The server experiences planned downtime every week on Fridays at 8:00pm to conduct backups.</span>
+
+
+# <span style="color:red">Planned Downtime</span>
+### Downtime Beginning at 1:00pm on November 16, 2021. Downtime Ending at 8:30am on November 17, 2021.
 
 # Server Changelog  
 
