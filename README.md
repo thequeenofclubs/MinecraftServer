@@ -1,5 +1,8 @@
-# Server Changelog
-Here, you'll find any changes to the server, with Major Updates and Minor Updates.
+# Server Info
+The server is currently using Minecraft 1.17.1  
+It's recommended to use optifine, which can be downloaded from here: http://optifine.net/download  
+
+# Server Changelog  
 
 ## Major Update - November 16, 2021
 #### Additions
