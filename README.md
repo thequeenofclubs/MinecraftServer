@@ -4,9 +4,16 @@ It's recommended to use optifine, which can be downloaded  [here](https://github
 
 The Server also uses a resource pack, which should be installed automatically by Minecraft when you join the server. If it doesn't, you can grab it [here](https://github.com/GabeThatGuy/MinecraftServer/raw/General-Info/Server-Resources/Resource%20Pack/vane-resource-pack.zip)
 
+# <span style="color:red">Expected Downtime - November 16, 2021, 1:00pm to 8:30am on November 17.</span>
+
 # Server Changelog  
 
-## Major Update - November 16, 2021
+## Major Update - November 16, 2021  
+### a.k.a. The Future Update  
+
+#### General Info
+So this is the first update of the server where I'll be maintaining the server much more heavily and I'll also be keeping this page up to date with any issues or downtimes that may be happening with the server.
+
 #### Additions
 Added Vane plugin, allows for many quality of life features.  
 Updated Version to 1.17.1  
