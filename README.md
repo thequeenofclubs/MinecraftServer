@@ -25,6 +25,10 @@ Changed Chunk Updates to 5 Updates per frame.
 
 ###### The server has reached milestone <span style="color:green"> 36,400,000 blocks</span> of land explored!  
 
+#### <span style="color:purple">Technical Changes</span>  
+The server resource pack is now hosted on GitHub instead of my personal network to increase security.  
+Network bandwitdth has been increased to 50 megabits per second for increased smoothness and less lag.  
+Minimum theoretical ping has been decreased to 2ms.  
 
 #### Removals
 There were no removals in this update.  
