@@ -13,8 +13,6 @@ The Server also uses a resource pack, which should be installed automatically by
 #### <span style="color:blue">The server experiences planned downtime every week on Fridays at 8:00pm to conduct backups.</span>
 
 
-# <span style="color:red">Planned Extended Downtime</span>
-### Downtime Beginning at 1:00pm on November 16, 2021. Downtime Ending at 8:30am on November 17, 2021.
 
 # Server Changelog  
 
