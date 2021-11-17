@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="assets/css/style.scss">
+<link rel="stylesheet" href="assets/css/light-darkmode.css">
 
 # Server Info
 
