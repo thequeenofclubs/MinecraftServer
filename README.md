@@ -20,7 +20,7 @@ The Server also uses a resource pack, which should be installed automatically by
 
 #### Additions
 Added Chunk Loading Optimizations  
-Enabled Chunk Preloading in 1500m radius for Optimal Performance  
+Enabled Chunk Preloading in 3000m radius for Optimal Performance  
 Changed Chunk Updates to 5 Updates per frame  
 
 #### Removals
