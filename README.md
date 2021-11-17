@@ -25,7 +25,7 @@ Added Chunk Loading Optimizations.
 Enabled Chunk Preloading in 3000m radius for Optimal Performance.  
 Changed Chunk Updates to 5 Updates per frame.  
 
-###### The server has reached milestone <span style="color:green"> 36,400,000 blocks</span> of land explored!  
+#### The server has reached milestone <span style="color:green"> 36,400,000 blocks</span> of land explored!  
 
 #### <span style="color:purple">Technical Changes</span>  
 The server resource pack is now hosted on GitHub instead of my personal network to increase security.  
