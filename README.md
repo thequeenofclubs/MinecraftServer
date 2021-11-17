@@ -43,6 +43,7 @@ Added Vane plugin, allows for many quality of life features.
 Updated Version to 1.17.1  
 Updated plugins to fix lighting.  
 Enabled Server Whitelist to avoid unwanted and unknown people connecting to the server.  
+Maximum Player Capacity increased to 10240 players  
 
 
 #### Removals
@@ -63,4 +64,6 @@ The Subway System has been completed.
 The XP farm in the end has been completed.
 
 #### Other Info
-A resource pack is now required to play on the server. When joining, just click allow and it will automatically install the resource pack. It's nothing to worry about, and it won't change any textures for blocks or anything. It's for the Vane plugin to allow its features to work.
+A resource pack is now required to play on the server. When joining, just click allow and it will automatically install the resource pack. It's nothing to worry about, and it won't change any textures for blocks or anything. It's for the Vane plugin to allow its features to work.  
+Ha, as if we're ever going to have that many people playing, but that much overhead makes for a buttery smooth server experience.  
+
