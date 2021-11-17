@@ -16,6 +16,19 @@ The Server also uses a resource pack, which should be installed automatically by
 
 # Server Changelog  
 
+### Minor Update - November 17, 2021
+
+#### Additions
+Added Chunk Loading Optimizations  
+Enabled Chunk Preloading in 1500m radius for Optimal Performance  
+Changed Chunk Updates to 5 Updates per frame  
+
+#### Removals
+There were no removals in this update.  
+
+#### There were no changes to in-progress projects or completed projects.
+
+
 ## Major Update - November 16, 2021  
 ### a.k.a. The Future Update  
 
