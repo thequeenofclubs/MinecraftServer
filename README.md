@@ -19,9 +19,12 @@ The Server also uses a resource pack, which should be installed automatically by
 ### Minor Update - November 17, 2021
 
 #### Additions
-Added Chunk Loading Optimizations  
-Enabled Chunk Preloading in 3000m radius for Optimal Performance  
-Changed Chunk Updates to 5 Updates per frame  
+Added Chunk Loading Optimizations.  
+Enabled Chunk Preloading in 3000m radius for Optimal Performance.  
+Changed Chunk Updates to 5 Updates per frame.  
+
+###### The server has reached milestone <span style="color:green"> 36,400,000 blocks</span> of land explored!  
+
 
 #### Removals
 There were no removals in this update.  
