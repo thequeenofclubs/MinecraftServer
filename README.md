@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="assets/css/style.scss">
+
 # Server Info
 
 ### Server IP Address: 99.246.96.44
