@@ -16,7 +16,7 @@ Eventually, Gabe came across a fork of BukkitMC called PaperMC, which they calle
 
 ### Phase 3
 
-Over time, as the server grew, Gabe was able to section off his own section of the world (similar to what we have now) and build a magestic City with dozens of buildings. Thanks to plugins, Gabe was able to build roads and have street signs, as well as driveable cars! Things were great. Simren and her friends, as well as Emi, Juli and Gabe had built an extensive network of paths all leading to buildings and structurs, farms and more that were all built by hand in survival mode. 
+Over time, as the server grew, Gabe was able to section off his own section of the world (similar to what we have now) and build a magestic City with dozens of buildings. Thanks to plugins, Gabe was able to build roads and have street signs, as well as driveable cars! Things were great. Simren and her friends, as well as Emi, Juli and Gabe had built an extensive network of paths all leading to buildings, structures, farms, and more that were all built by hand in Survival mode. 
 
 ### The Great Corruption
 On June 25th, 2020, there was a power surge in Toronto that caused the computer that the server was being hosted on to short circuit, which corrupted the entire computer. Luckily, that computer had an SSD, so the data on the drive was not affected. What was affected, though, was the server. Since Minecraft servers store their data in RAM and only push the updated data to the SSD periodically, the world save became corrupted. Massive chunks of the world were deleted, and all our hard work was lost. 
