@@ -72,7 +72,8 @@ Ancient Tomes are used to craft two new Tomes that form the base for the enchant
 1. Ancient Tome of Knowledge
 2. Ancient Tome of the Gods
 
-List of enchantments: Name (Tool)
+####List of enchantments
+Format: Name (Tool)
 
 1. Seeding (Hoe)  
 2. Rake (Hoe)
@@ -85,6 +86,39 @@ List of enchantments: Name (Tool)
 9. Wings (Elytra)
 10. Takeoff (Elytra)
 11. Angel (Elytra)
+
+#### Seeding [I-IV]
+Allows a hoe to plant seeds without consuming from your inventory. The seeds will match the nearest crop field. Right click on the same spot to create a circle of crops.
+
+#### Rake [I-IV]
+Similar to seeding, but creates till fields. Multiple clicks on existing fields creates a circle of tilled soil.
+
+#### Careless [I]
+Allows a hoe to till the dirt underneath tall grass. Very useful in conjunction with Rake.
+
+#### Leafchopper [I]
+Allows you to remove leaves very quickly with an axe. Leaves mined with this enchantment will drop the same things as if the leaf had naturally decayed.
+
+#### Grappling Hook [I-III]
+Allows fishing rods to grapple onto objects and pull the player forward/up. At last, a good use for the fishing rod!
+
+#### Soulbound [I]
+Soulbound items remain in your inventory after death. They also cannot be dropped accidentally.
+
+#### Unbreakable [I]
+The ultimate enchantment. Allows items to become unbreakable.
+
+#### Hell Bent [I]
+Prevents damage upon impact with a surface while flying with the Elytra.
+
+#### Wings [I-IV]
+Sneak while flying with the Elytra to get a small boost.
+
+#### Takeoff [I-III]
+Get a boost when opening the Elytra to take off directly from the ground.
+
+#### Angel [I-V]
+Applies acceleration to the player while they press shift during flight.
 
 
 
