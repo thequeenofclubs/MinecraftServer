@@ -121,6 +121,32 @@ Get a boost when opening the Elytra to take off directly from the ground.
 Applies acceleration to the player while they press shift during flight.
 
 
+### Portals
+Portals in Vane allow you to teleport around the world in style. Construct two or more portals and you can teleport between them!
+
+[Guide on how to use portals](/MinecraftServer/wiki/vane-portals)
+
+
+## WorldEdit
+WorldEdit is mostly for admin and troubleshooting on our server, but it lets you do some cool stuff like hollowing out areas or constructing giant pillars. More info is in the [commands](/MinecraftServer/wiki/commands) section of the wiki.
+
+## OpenInv
+Allows server administrators to view the inventories of other players.
+
+## LuckPerms
+To manage permissions for different members, as well as to fix unwanted behaviour from plugins.
+
+## SimpleRename
+A simple plugin to rename things via commands.
+
+## ViaVersion
+Allows players to join from different Minecraft Versions. Our server supports versions 1.9.x - 1.17.1.
+
+## Chunky
+Enables pre-rendering of the world. Makes performance buttery smooth while walking around.
+
+## LightCleaner
+Mainly to fix the lighting from the restored buildings during [rebirth](/MinecraftServer/wiki/origin-story/#rebirth)
 
 
 
