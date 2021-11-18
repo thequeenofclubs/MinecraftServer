@@ -14,7 +14,7 @@ Okay, so, Vane's documentation is pretty terrible as far as crafting recipes go,
     ![vane-recipes-sickle](/MinecraftServer/assets/images/recipes/vane/sickle_gold.png)  
 
 - File
-  - In order to craft a file, you'll need: one of any tool item, and one stick, arranged as follows/
+  - In order to craft a file, you'll need: one of any tool item, and one stick, arranged as follows
     ![vane-recipes-file](/MinecraftServer/assets/images/recipes/vane/file_iron.png)
 
 
