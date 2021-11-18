@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.png">
 <link rel="stylesheet" href="assets/css/light-darkmode.css">
 
 # Server Info
