@@ -37,3 +37,5 @@ Many Buildings in the City Skyline were transferred during [rebirth](/MinecraftS
 
 #### The City Skyline Seen From McDonalds
 ![city-far](/MinecraftServer/assets/images/projectimages/city-far.png)
+
+[Back to the Wiki](/MinecraftServer/wiki)
