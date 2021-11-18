@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="assets/css/light-darkmode.css">
+<link rel="stylesheet" href="/MinecraftServer/assets/css/light-darkmode.css">
 
 ## Our Server's Origin Story
 
