@@ -13,4 +13,4 @@ Well, since I'm a busy boi, I havent gotten the time to write any more on this p
 
 #### Thanks for reading!
 
-#### [Back to Main Page](/MinecraftServer/1-18-info)
+#### [Back to Main Page](/MinecraftServer)
