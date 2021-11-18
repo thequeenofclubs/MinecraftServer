@@ -72,8 +72,8 @@ Ancient Tomes are used to craft two new Tomes that form the base for the enchant
 1. Ancient Tome of Knowledge
 2. Ancient Tome of the Gods
 
-####List of enchantments
-Format: Name (Tool)
+#### List of enchantments  
+Format: Name (Tool)  
 
 1. Seeding (Hoe)  
 2. Rake (Hoe)
