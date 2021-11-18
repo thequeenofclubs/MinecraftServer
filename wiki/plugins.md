@@ -146,7 +146,7 @@ Allows players to join from different Minecraft Versions. Our server supports ve
 Enables pre-rendering of the world. Makes performance buttery smooth while walking around.
 
 ## LightCleaner
-Mainly to fix the lighting from the restored buildings during [rebirth](/MinecraftServer/wiki/origin-story#rebirth)
+Mainly to fix the lighting from the restored buildings during [rebirth](/MinecraftServer/wiki/origin-story#rebirth).  
 
 
 
