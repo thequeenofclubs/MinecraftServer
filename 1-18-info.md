@@ -12,3 +12,5 @@ Well, In order to update from our lovely 1.17.1 world to 1.18, we have to hope a
 Well, since I'm a busy boi, I havent gotten the time to write any more on this page, so you'll have to bear with me and wait probably until the end of the week for more detailed information about the update to 1.18. On this page I'll write about the modifications I'll have to make and all of the techincal stuff thats happening too.  
 
 #### Thanks for reading!
+
+#### [Back To the Main Page](/MinecraftServer/1-18-info)
