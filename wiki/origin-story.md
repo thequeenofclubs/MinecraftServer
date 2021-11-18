@@ -29,4 +29,4 @@ In August 2021, Gabe was able to recover our old server's data (in the form of a
 
 
 
-[Back to the Wiki](/MinecraftServer)
+[Back to the Wiki](/MinecraftServer/wiki)
