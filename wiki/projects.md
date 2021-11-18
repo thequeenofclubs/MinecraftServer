@@ -1,6 +1,12 @@
 <link rel="stylesheet" href="/MinecraftServer/assets/css/light-darkmode.css">
 
 ## The Server's Projects
+#### The Village/Main House Viewed from Gabe's House in December 2020
+![aerial-village-1](/MinecraftServer/assets/images/projectimages/aerial-village-1)
+
+#### The Village/Main House Viewed from Gabe's House in November 2021
+![aerial-village-2](/MinecraftServer/assets/images/projectimages/aerial-village-2)
+
 
 ### July 2020 - The Hotel
 Facts:
