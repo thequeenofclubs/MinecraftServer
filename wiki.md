@@ -11,3 +11,6 @@ The Wiki is broken up into several sections as follows:
 [Origin Story](/MinecraftServer/wiki/origin-story)    
 [Plugins](/MinecraftServer/wiki/plugins)  
 [Commands](/MinecraftServer/wiki/commands)  
+
+
+[Back to Homepage](/MinecraftServer)
