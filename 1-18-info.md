@@ -1,4 +1,4 @@
-# Our server and the road to Minecraft 1.18
+## Our server and the road to Minecraft 1.18
 
 ### Background Info
 So basically, Minecraft 1.18 is the biggest update in the history of Minecraft, changing the entirety of the world generation algorithm. It basically makes it so that mountains are taller, caves are deeper, and so on. 
