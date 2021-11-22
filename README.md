@@ -20,6 +20,8 @@ The Server also uses a resource pack, which should be installed automatically by
 #### <span style="color:blue">The server experiences planned downtime every week on Fridays at 8:00pm to conduct backups.</span>
 
 
+## <span style="color:red">Planned Downtime: November 22 @ 10:30am --> November 22 @ 6pm</span>
+
 
 # Server Changelog  
 
