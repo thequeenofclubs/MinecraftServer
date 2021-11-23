@@ -16,5 +16,7 @@ The commands on this page are going to be broken down by plug-in. *Yes, I know v
         - Rain
         - Thunder
 
-- /time - Allows the player to set the time. Syntax: /time timeOfDay
-- /msg - Allows players to send direct messages to each other. Syntax: /msg PlayerName message
+- /time - Allows the player to set the time.  
+Syntax: /time timeOfDay  
+- /msg - Allows players to send direct messages to each other.  
+Syntax: /msg PlayerName message  
