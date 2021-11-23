@@ -5,6 +5,7 @@
 ### Server IP Address: 99.246.96.44
 ### [<span style="color:DeepSkyBlue">View the Server Changelog</span>](/MinecraftServer/changelog)  
 #### <span style="color:red">Planned Downtime: November 22 @ 10:30am --> November 23 @ 6pm</span>
+##### <span style="color:blue">The server experiences planned downtime every week on Fridays at 8:00pm to conduct backups.</span>
 #### Version Info
 The server is currently using Minecraft 1.17.1  
 Click [here](/MinecraftServer/1-18-info) to see more information about the update path to 1.18.
@@ -21,9 +22,10 @@ It's recommended to use optifine, which can be downloaded  [here](https://github
 
 The Server also uses a resource pack, which should be installed automatically by Minecraft when you join the server. If it doesn't, you can grab it [here](https://github.com/GabeThatGuy/MinecraftServer/raw/General-Info/Server-Resources/Resource%20Pack/vane-resource-pack.zip)  
 
-#### <span style="color:blue">The server experiences planned downtime every week on Fridays at 8:00pm to conduct backups.</span>
 
 
+#### Site Info
+Click [<span style ="color:red">here</span>](/MinecraftServer/site-info) to see how this site was built and how it's run.
 
 
   
