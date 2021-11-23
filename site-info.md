@@ -11,6 +11,6 @@ This site is hosted by GitHub Pages, and the website is built from the files in 
 Well, GitHub Pages is free, it's versatile, and it's run by GitHub (obviously) which makes it super easy to add files and edit them. Plus, since it's open source, it's super easy to customize and get help from other users.
 
 ### The Code
-As I mentioned briefly above, the code for this site is generated based off of my inputs in raw HTML, plus my text inputs in Markdown. Here's an example of how this setup works. <span style="lime">Below</span> is a screenshot of the raw code that's being displayed by your web browser. 
+As I mentioned briefly above, the code for this site is generated based off of my inputs in raw HTML, plus my text inputs in Markdown. Here's an example of how this setup works. <span style="color:lime">Below</span> is a screenshot of the raw code that's being displayed by your web browser. 
 
 ![site-info-code](/MinecraftServer/assets/images/site-info-code.png)
