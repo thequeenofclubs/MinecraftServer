@@ -3,7 +3,7 @@
 # Server Info
 
 ### Server IP Address: 99.246.96.44
-### [<span style="color:MidnightBlue">View the Server Changelog</span>](/MinecraftServer/changelog)  
+### [<span style="color:DeepSkyBlue">View the Server Changelog</span>](/MinecraftServer/changelog)  
 #### <span style="color:red">Planned Downtime: November 22 @ 10:30am --> November 23 @ 6pm</span>
 #### Version Info
 The server is currently using Minecraft 1.17.1  
