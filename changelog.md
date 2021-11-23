@@ -30,7 +30,7 @@ So this is the first update of the server where I'll be maintaining the server m
 Added [Vane](/MinecraftServer/wiki/plugins#vane) plugin, allows for many quality of life features.  
 Updated Version to 1.17.1  
 Updated plugins to fix lighting.  
-Enabled Server Whitelist to avoid unwanted and unknown people connecting to the server.  
+Enabled Server [Whitelist](/MinecraftServer/whitelist) to avoid unwanted and unknown people connecting to the server.  
 Maximum Player Capacity increased to 10240 players  
 
 
@@ -42,7 +42,7 @@ Chest Sorting System in Juli's Castle
 Amusement Park  
 Treetop Trekking  
 McDonalds PlayPlace  
-
+Drowned Farm  
 
 #### Completed Projects
 The City has been completed.  
