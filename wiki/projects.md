@@ -32,7 +32,7 @@ Time Taken: Approx 30 hours
 The CN Tower Alone took Approx 8 hours total to construct.  
 Many Buildings in the City Skyline were transferred during [rebirth](/MinecraftServer/wiki/origin-story#rebirth).  
 
-#### The City Skyline Seen From The Sandstone Disc
+#### The City Skyline Seen From Gabe's House
 ![city-close](/MinecraftServer/assets/images/projectimages/city-close.png)
 
 #### The City Skyline Seen From McDonalds
