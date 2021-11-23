@@ -13,4 +13,4 @@ Well, GitHub Pages is free, it's versatile, and it's run by GitHub (obviously) w
 ### The Code
 As I mentioned briefly above, the code for this site is generated based off of my inputs in raw HTML, plus my text inputs in Markdown. Here's an example of how this setup works. <span style="color:lime">Below</span> is a screenshot of the raw code that's being displayed by your web browser. 
 
-![site-info-code](/MinecraftServer/assets/images/site-info-rawcode.png)
+![site-info-rawcode](/MinecraftServer/assets/images/site-info-rawcode.png)
