@@ -3,7 +3,7 @@
 # Server Info
 
 ### Server IP Address: 99.246.96.44
-### Server Changelog can be Viewed [Here](/MinecraftServer/changelog)  
+### [<span style="color:orange">Server Changelog</span>](/MinecraftServer/changelog)  
 
 #### Version Info
 The server is currently using Minecraft 1.17.1  
