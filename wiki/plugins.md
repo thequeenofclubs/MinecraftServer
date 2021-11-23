@@ -22,7 +22,7 @@ Essentials enables things like tick monitoring, memory management, warps, shorte
 
 ## Vane
 Vane is one of the biggest plugins on our server. It adds quality of life improvements, new items, new enchantments, and portals.  
-#### More detailed information on <span style="color:violet">Vane</span> can be found [<span style="color:red">here</span>](/MinecraftServer/wiki/vane-detailed)  
+#### More detailed information on <span style="color:violet">Vane</span> can be found [<span style="color:red">here.</span>](/MinecraftServer/wiki/vane-detailed)  
 
 ## WorldEdit
 WorldEdit is mostly for admin and troubleshooting on our server, but it lets you do some cool stuff like hollowing out areas or constructing giant pillars. More info is in the [commands](/MinecraftServer/wiki/commands) section of the wiki.
