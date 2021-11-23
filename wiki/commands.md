@@ -6,7 +6,7 @@ The commands on this page are going to be broken down by plug-in. *Yes, I know v
 /plugin:command [arguments]
 ##### Example:
 /essentials:time - Displays the current world time  
-/vane:time - Used to set the time of day.
+/vane:time dawn - Used to set the time to dawn (0 ticks, 6:00am).
 
 ## Vanilla Minecraft
 - /tp - To teleport a player to a coordinate or another player.  
