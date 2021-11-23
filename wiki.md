@@ -8,6 +8,7 @@ Here, you'll find all the things you need to know about playing on the server as
 ### Sections  
 
 The Wiki is broken up into several sections as follows:  
+[Whitelist](/MinecraftServer/whitelist)  
 [Origin Story](/MinecraftServer/wiki/origin-story)  
 [Recipes](/MinecraftServer/wiki/recipes)  
 [Projects](/MinecraftServer/wiki/projects)  
