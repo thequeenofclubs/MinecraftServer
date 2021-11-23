@@ -9,7 +9,7 @@ The server is currently using Minecraft 1.17.1
 Click [here](/MinecraftServer/1-18-info) to see more information about the update path to 1.18.
 
 #### Whitelist
-The current list of whitelisted players can be found on the wiki [here](/MinecraftServer/whitelist)  
+The current list of whitelisted players can be found on the wiki [here](/MinecraftServer/whitelist).  
 
 #### Wiki
 Thanks to Gabe's hard work, the server now has a WIP Wiki!  
