@@ -1,3 +1,8 @@
+
+---
+layout: page
+title: 1.18 Info
+---
 <link rel="stylesheet" href="assets/css/light-darkmode.css">  
 
 ## Our server and the road to Minecraft 1.18

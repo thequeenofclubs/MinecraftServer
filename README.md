@@ -1,3 +1,8 @@
+
+---
+layout: page
+title: Home
+---
 <link rel="stylesheet" href="assets/css/light-darkmode.css">
 
 # Server Info
