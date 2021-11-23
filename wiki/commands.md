@@ -10,8 +10,8 @@ The commands on this page are going to be broken down by plug-in. *Yes, I know v
 
 ## Vanilla Minecraft
 - /tp - To teleport a player to a coordinate or another player.  
-Syntax: /tp PlayerName x y z, or  
-/tp PlayerName AnotherPlayerName  
+Syntax: /tp destination(x y z), or  
+/tp player2 (teleports you to player2).    
 - /weather - Sets the weather.  
 Syntax: /weather conditon
     - Accepted Weather Conditions
