@@ -9,8 +9,11 @@ The commands on this page are going to be broken down by plug-in. *Yes, I know v
 /vane:time - Used to set the time of day.
 
 ## Vanilla Minecraft
-- /tp - To teleport a player to a coordinate or another player. Syntax: /tp PlayerName x y z, or /tp PlayerName AnotherPlayerName  
-- /weather - Sets the weather. Syntax: /weather conditon
+- /tp - To teleport a player to a coordinate or another player.  
+Syntax: /tp PlayerName x y z, or  
+/tp PlayerName AnotherPlayerName  
+- /weather - Sets the weather.  
+Syntax: /weather conditon
     - Accepted Weather Conditions
         - Sun
         - Rain
