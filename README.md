@@ -6,7 +6,7 @@
 ### [<span style="color:DeepSkyBlue">View the Server Changelog</span>](/MinecraftServer/changelog)
 
 ### Downtime
-#### <span style="color:red">Planned Downtime: November 22 @ 10:30am --> November 23 @ 6pm</span>
+### Planned Downtime will be here in <span style="color:red">red</span> if there is any.
 #### <span style="color:blue">The server experiences planned downtime every week on Fridays at 8:00pm to conduct backups.</span>
 #### Version Info
 The server is currently using Minecraft 1.17.1  
