@@ -18,7 +18,7 @@ The Wiki is broken up into several sections as follows:
 [Recipes](/MinecraftServer/wiki/recipes)  
 [Projects](/MinecraftServer/wiki/projects)  
 [Plugins](/MinecraftServer/wiki/plugins)  
-[Commands](/MinecraftServer/wiki/commands) 
+[Commands](/MinecraftServer/wiki/commands)  
 [Server Statistics](/MinecraftServer/wiki/stats)  
 
 #### Gabe, Krissy, Emily and Julian at the Two Year Celebration Firework Festival in July 2021
