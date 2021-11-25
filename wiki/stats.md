@@ -3,8 +3,7 @@ These stats were last updated on November 24, 2021.
 
 ### General Stats
 Minecraft Days Elapsed: 7206  
-Developed Chunks: 67608
-- More info on developed chunks can be found on [this](/MinecraftServer/wiki/definitions#developed-chunks) wiki page.  
+Developed Chunks: 67608 <span style="color=slate">(More info on developed chunks can be found on [this](/MinecraftServer/wiki/definitions#developed-chunks) wiki page.)</span>  
 
 Total Warps: 109  
 
