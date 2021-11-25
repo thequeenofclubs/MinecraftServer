@@ -1,6 +1,22 @@
 
 ## Our Server's Changelog
 
+
+### Minor Update - November 24, 2021
+
+#### Additions
+There were no additions in this update.
+
+#### Removals
+There were no removals in this update.
+
+#### Project Completions
+The Drowned Farm has been completed.
+
+#### Technical Changes
+The server's site CSS has been completely rewritten to accomodate iOS 15, macOS 12, and Windows 11.
+
+
 ### Minor Update - November 17, 2021
 
 #### Additions
