@@ -28,7 +28,7 @@ There were no removals in this update.
 So this is the first update of the server where I'll be maintaining the server much more heavily and I'll also be keeping this page up to date with any issues or downtimes that may be happening with the server.
 
 #### Additions
-Added [<span style="color:violet">Vane</span>](/MinecraftServer/wiki/plugins#vane) plugin, allows for many quality of life features.  
+Added [<span style="color:darkviolet">Vane</span>](/MinecraftServer/wiki/plugins#vane) plugin, allows for many quality of life features.  
 Updated Version to 1.17.1  
 Updated plugins to fix lighting.  
 Enabled Server [Whitelist](/MinecraftServer/whitelist) to avoid unwanted and unknown people connecting to the server.  
