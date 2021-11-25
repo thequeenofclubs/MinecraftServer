@@ -20,7 +20,7 @@ Note, these plugins add craftable items, whose recipes can be found on the [reci
 This plugin is the **backbone** of our server. It's what makes things tick.  
 Essentials enables things like tick monitoring, memory management, warps, shortened commands, different weather patterns, as well as many other game rules.
 
-## Vane
+## <span style="color:violet">Vane</span>
 Vane is one of the biggest plugins on our server. It adds quality of life improvements, new items, new enchantments, and portals.  
 #### More detailed information on <span style="color:violet">Vane</span> can be found [<span style="color:red">here.</span>](/MinecraftServer/wiki/vane-detailed)  
 
