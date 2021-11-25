@@ -1,7 +1,4 @@
----
-layout: page
-title: Wiki
----
+
 
 <link rel="stylesheet" href="assets/css/light-darkmode.css">
 
