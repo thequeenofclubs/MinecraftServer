@@ -1,4 +1,4 @@
-## Vane
+## <span style="color:red">Vane</span>
 Vane is one of the biggest plugins on our server. It adds the following:  
 
 ### Quality of Life Improvements  
