@@ -1,7 +1,4 @@
----
-layout: page
-title: Server Changelog
----
+
 ## Our Server's Changelog
 
 ### Minor Update - November 17, 2021
