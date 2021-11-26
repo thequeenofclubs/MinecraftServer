@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/MinecraftServer/assets/css/light-darkmode.css">
+
 
 ## The Server's Projects
 The projects on this page are listed in chronological order (newest first).  
@@ -19,7 +19,7 @@ The Drowned farm is intended to produce nautilus shells, copper ingots and rotte
 More info on how the Drowned farm works can be found [here](/MinecraftServer/wiki/project-info/drownedfarm).
 
 #### The Drowned Farm seen from the air.
-![city-close](/MinecraftServer/assets/images/projectimages/drownedfarm.png)
+![drownedfarm](/MinecraftServer/assets/images/projectimages/drownedfarm.png)
 
 
 
@@ -43,6 +43,20 @@ Many Buildings in the City Skyline were transferred during [rebirth](/MinecraftS
 
 [Back to the Wiki](/MinecraftServer/wiki)
 
+
+### October 2021 - Giant's Park
+
+Facts:  
+Construction Started: Early June, 2021  
+Construction Finished: October 30, 2021  
+Time Taken: Approx 40 hours  
+
+#### View of Giant's Park from the BeaconTree.
+![giantspark](/MinecraftServer/assets/images/projectimages/giantspark.png)
+
+[Back to the Wiki](/MinecraftServer/wiki)
+
+
 ### August 2021 - Gabe's Cabin
 
 Facts:  
@@ -52,10 +66,10 @@ Time Taken: Approx 6 hours
 Gabe's cabin has the only automatic lighting system on the server.
 
 #### Gabe's Cabin: Exterior.
-![city-close](/MinecraftServer/assets/images/projectimages/gabescabin1.png)
+![gabescabin1](/MinecraftServer/assets/images/projectimages/gabescabin1.png)
 
 #### Gabe's Cabin: Interior.
-![city-close](/MinecraftServer/assets/images/projectimages/gabescabin2.png)
+![gabescabin2](/MinecraftServer/assets/images/projectimages/gabescabin2.png)
 
 [Back to the Wiki](/MinecraftServer/wiki)
 
