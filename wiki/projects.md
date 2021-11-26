@@ -13,6 +13,9 @@ The projects on this page are listed in chronological order (newest first).
 #### The Village viewed from Gabe's House before [rebirth](/MinecraftServer/wiki/origin-story#rebirth)
 ![before-rebirth-1](/MinecraftServer/assets/images/projectimages/before-rebirth1.png)  
 
+#### The Village viewed from the ground before rebirth.
+![before-rebirth-2](/MinecraftServer/assets/images/projectimages/before-rebirth2.png)  
+
 [Back to the Wiki](/MinecraftServer/wiki)
 
 ### November 2021 - The Drowned Farm
