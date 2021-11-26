@@ -4,10 +4,10 @@
 The projects on this page are listed in chronological order (newest first).  
 
 ### The Server's Evolution
-#### The Village/Main House Viewed from Gabe's House in December 2020
+#### The New Village/Main House Viewed from Gabe's House in December 2020
 ![aerial-village-1](/MinecraftServer/assets/images/projectimages/aerial-village-1.png)
 
-#### The Village/Main House Viewed from Gabe's House in November 2021
+#### The New Village/Main House Viewed from Gabe's House in November 2021
 ![aerial-village-2](/MinecraftServer/assets/images/projectimages/aerial-village-2.png)
 
 #### The Village viewed from the LRT before [rebirth](/MinecraftServer/wiki/origin-story#rebirth)
