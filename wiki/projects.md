@@ -25,6 +25,18 @@ More info on how the Drowned farm works can be found [here](/MinecraftServer/wik
 
 [Back to the Wiki](/MinecraftServer/wiki)
 
+### November 2021 - The Holocaust Memorial
+
+Facts:  
+Construction Started: November 11, 2021  
+Construction Finished: November 11, 2021  
+Time Taken: Approx 3 Hours  
+Constructed to commemorate the survivors of the holocaust, it also commemorates all soldiers who gave their lives to fight for our freedom.  
+
+#### The Holocaust Monument
+![holocaustmemorial](/MinecraftServer/assets/images/projectimages/holocaustmem.png)  
+
+[Back to the Wiki](/MinecraftServer/wiki)  
 
 ### November 2021 - The City Skyline
 
