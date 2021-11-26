@@ -11,7 +11,7 @@ There were no additions in this update.
 There were no removals in this update.  
 
 #### Project Completions
-The Drowned Farm has been completed.  
+[The Drowned Farm](/MinecraftServer/wiki/projects#november-2021---the-drowned-farm) has been completed.  
 
 #### Technical Changes
 The server's site CSS has been completely rewritten to accomodate iOS 15, macOS 12, and Windows 11.  
