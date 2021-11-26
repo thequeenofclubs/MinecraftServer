@@ -10,17 +10,21 @@ The projects on this page are listed in chronological order (newest first).
 #### The New Village/Main House Viewed from Gabe's House in November 2021
 ![aerial-village-2](/MinecraftServer/assets/images/projectimages/aerial-village-2.png)
 
-#### The Village viewed from the LRT before [rebirth](/MinecraftServer/wiki/origin-story#rebirth)
+#### The Old Village viewed from the LRT before [rebirth](/MinecraftServer/wiki/origin-story#rebirth)
 ![before-rebirth-1](/MinecraftServer/assets/images/projectimages/before-rebirth1.png)  
 
-#### The Village viewed from Gabe's House before rebirth.
+#### The Old Village viewed from Gabe's House before rebirth.
 ![before-rebirth-3](/MinecraftServer/assets/images/projectimages/before-rebirth3.png)  
 ![before-rebirth-4](/MinecraftServer/assets/images/projectimages/before-rebirth4.png)  
 
-#### The Village viewed from the ground before rebirth.
+#### The Old Village viewed from the ground before rebirth.
 ![before-rebirth-2](/MinecraftServer/assets/images/projectimages/before-rebirth2.png)  
 
+#### The Old Village viewed from the Abraham Lincoln Observatory After the Corruption
+![after-corruption](/MinecraftServer/assets/images/projectimages/oldworld-aftercorruption.png)  
+
 [Back to the Wiki](/MinecraftServer/wiki)
+
 
 ### November 2021 - The Drowned Farm
 
