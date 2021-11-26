@@ -8,6 +8,7 @@ The projects on this page are listed in chronological order (newest first).
 #### The Village/Main House Viewed from Gabe's House in November 2021
 ![aerial-village-2](/MinecraftServer/assets/images/projectimages/aerial-village-2.png)
 
+[Back to the Wiki](/MinecraftServer/wiki)
 
 ### November 2021 - The Drowned Farm
 
@@ -21,6 +22,18 @@ More info on how the Drowned farm works can be found [here](/MinecraftServer/wik
 #### The Drowned Farm seen from the air.
 ![drownedfarm](/MinecraftServer/assets/images/projectimages/drownedfarm.png)
 
+[Back to the Wiki](/MinecraftServer/wiki)
+
+### November 2021 - The Copper Man
+
+Facts:  
+Construction Started: November 16, 2021  
+Construction Finished: November 16, 2021  
+Time Taken: Approx 2 hours  
+Collaborative Build by Gabe & Krissy  
+
+#### The Copper Man seen from Giant's Park  
+![copperman](/MinecraftServer/assets/images/projectimages/copperman.png)  
 
 
 [Back to the Wiki](/MinecraftServer/wiki)
