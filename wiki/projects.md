@@ -2,11 +2,16 @@
 
 ## The Server's Projects
 The projects on this page are listed in chronological order (newest first).  
+
+### The Server's Evolution
 #### The Village/Main House Viewed from Gabe's House in December 2020
 ![aerial-village-1](/MinecraftServer/assets/images/projectimages/aerial-village-1.png)
 
 #### The Village/Main House Viewed from Gabe's House in November 2021
 ![aerial-village-2](/MinecraftServer/assets/images/projectimages/aerial-village-2.png)
+
+#### The Village viewed from Gabe's House before [rebirth](/MinecraftServer/wiki/origin-story#rebirth)
+![before-rebirth-1](/MinecraftServer/assets/images/projectimages/before-rebirth1.png)  
 
 [Back to the Wiki](/MinecraftServer/wiki)
 
@@ -96,6 +101,7 @@ The Arena has a floor built of obsidian and glowstone, with walls made of sandst
 #### The Skyline seen from the Arena
 ![arena2](/MinecraftServer/assets/images/projectimages/arena2.png)  
 
+[Back to the Wiki](/MinecraftServer/wiki)
 
 ### TBD 2021, The Pyramid
 
@@ -107,6 +113,8 @@ The Pyramid is one of our greatest monuments on our server, mostly inspired by J
 
 #### The Pyramid seen from the Groundway
 ![thepyramid](/MinecraftServer/assets/images/projectimages/thepyramid.png)  
+
+[Back to the Wiki](/MinecraftServer/wiki)
 
 ### August 2021 - Gabe's Cabin
 
