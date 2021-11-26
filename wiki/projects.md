@@ -75,12 +75,38 @@ Facts:
 Construction Started: Early June, 2021  
 Construction Finished: October 30, 2021  
 Time Taken: Approx 40 hours  
+Parts of Giant's Park were transferred during [rebirth](/MinecraftServer/wiki/origin-story#rebirth), and parts were built by Gabe & Krissy in the new world.  
 
 #### View of Giant's Park from the BeaconTree.
 ![giantspark](/MinecraftServer/assets/images/projectimages/giantspark.png)
 
 [Back to the Wiki](/MinecraftServer/wiki)
 
+### TBD 2021, The Arena
+
+Facts:  
+Construction Started: TBD 2021  
+Construction Finished: TBD 2021  
+Time Taken: Approx 10 Hours  
+The Arena has a floor built of obsidian and glowstone, with walls made of sandstone. Surrounded by bleachers, the huge area in the middle is used for PVP battles and could be used for acting as well. The arena has very good view of the skyline in the background.  
+
+#### The Arena seen from the Air
+![arena](/MinecraftServer/assets/images/projectimages/arena.png)  
+
+#### The Skyline seen from the Arena
+![arena2](/MinecraftServer/assets/images/projectimages/arena2.png)  
+
+
+### TBD 2021, The Pyramid
+
+Facts:  
+Construction Started: TBD 2021  
+Construction Finished: TBD 2021  
+Time Taken: Approx 20 Hours  
+The Pyramid is one of our greatest monuments on our server, mostly inspired by Julian's immense excess of free time, plus his indestructible resolve to flatten the desert (we had to do something with the sandstone).  
+
+#### The Pyramid seen from the Groundway
+![thepyramid](/MinecraftServer/assets/images/projectimages/thepyramid.png)  
 
 ### August 2021 - Gabe's Cabin
 
