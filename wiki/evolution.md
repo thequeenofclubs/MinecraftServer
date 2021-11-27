@@ -1,5 +1,5 @@
 ## Our Server's Evolution
-On this page, you'll find images of our story's evolution, primarily focusing on [The Corruption](/MinecraftServer/wiki/origin-story#the-great-corruption), and [rebirth](/MinecraftServer/wiki/origin-story#rebirth).  
+On this page, you'll find images of our story's evolution, primarily focusing on [The Great Corruption](/MinecraftServer/wiki/origin-story#the-great-corruption), and [rebirth](/MinecraftServer/wiki/origin-story#rebirth).  
 
 #### The New Village/Main House Viewed from Gabe's House in December 2020
 ![aerial-village-1](/MinecraftServer/assets/images/projectimages/aerial-village-1.png)
