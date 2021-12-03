@@ -91,18 +91,6 @@ The Arena has a floor built of obsidian and glowstone, with walls made of sandst
 
 [Back to the Wiki](/MinecraftServer/wiki)
 
-### December 2020 - The Pyramid
-
-Facts:  
-Construction Started: December 2020  
-Construction Finished: February 2021  
-Time Taken: Approx 40 Hours  
-The Pyramid is one of our greatest monuments on our server, mostly inspired by Julian's immense excess of free time, plus his indestructible resolve to flatten the desert (we had to do something with the sandstone).  
-
-#### The Pyramid seen from the Groundway
-![thepyramid](/MinecraftServer/assets/images/projectimages/thepyramid.png)  
-
-[Back to the Wiki](/MinecraftServer/wiki)
 
 ### August 2021 - Gabe's Cabin
 
@@ -120,6 +108,18 @@ Gabe's cabin has the only automatic lighting system on the server.
 
 [Back to the Wiki](/MinecraftServer/wiki)
 
+### December 2020 - The Pyramid
+
+Facts:  
+Construction Started: December 2020  
+Construction Finished: February 2021  
+Time Taken: Approx 40 Hours  
+The Pyramid is one of our greatest monuments on our server, mostly inspired by Julian's immense excess of free time, plus his indestructible resolve to flatten the desert (we had to do something with the sandstone).  
+
+#### The Pyramid seen from the Groundway
+![thepyramid](/MinecraftServer/assets/images/projectimages/thepyramid.png)  
+
+[Back to the Wiki](/MinecraftServer/wiki)
 
 ### July 2020 - The Hotel
 Facts:  
