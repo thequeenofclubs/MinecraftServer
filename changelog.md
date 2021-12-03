@@ -1,5 +1,24 @@
 
-## Our Server's Changelog
+# Our Server's Changelog
+
+## Major Update - December 3, 2021
+Aka the 1.18 Update  
+Click [here](/MinecraftServer/wiki/1-18) to see what Minecraft 1.18 brings to the table.  
+
+#### Additions
+Updated the following plugins to allow support for 1.18:  
+- Vane  
+- WorldEdit  
+- ViaVersion/ViaBackwards  
+- Essentials  
+
+Updated [the core](/MinecraftServer/wiki/thecore) to support version 1.18.  
+
+#### Removals
+There were no removals in this update.  
+
+#### Project Completions  
+There were no completed projects since the last update.  
 
 
 ### Minor Update - November 24, 2021
