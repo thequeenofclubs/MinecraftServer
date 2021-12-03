@@ -10,9 +10,11 @@ Here, you'll find all the things you need to know about playing on the server as
 ### Sections  
 
 The Wiki is broken up into several sections as follows:  
+[The Core](/MinecraftServer/wiki/thecore)  
 [Whitelist](/MinecraftServer/whitelist)  
 [Origin Story](/MinecraftServer/wiki/origin-story)  
 [Evolution](/MinecraftServer/wiki/evolution)  
+[1.18 Info](/MinecraftServer/wiki/1-18)  
 [Recipes](/MinecraftServer/wiki/recipes)  
 [Projects](/MinecraftServer/wiki/projects)  
 [Plugins](/MinecraftServer/wiki/plugins)  
