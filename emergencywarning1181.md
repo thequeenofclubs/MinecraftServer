@@ -2,6 +2,7 @@
 
 ### What's the risk?
 The versions listed below are affected and can allow unpermitted and undisclosed entry into either your computer or your home network.  
+A security flaw in the java logging engine known as Log4j has been indentified and patched in version 1.18.1. This flaw has existed since version 1.7 and can be potentially exploited by those with sufficient techincal knowledge.  
 <u><strong>Do not use versions prior to 1.18.1.</strong></u>
 ### Has it been solved?
 A security patch has been applied to version 1.18.1 and it is essential that you use this version or newer from now on.
@@ -43,6 +44,6 @@ A security patch has been applied to version 1.18.1 and it is essential that you
 - 1.7.10
 - 1.7.2
 - 1.7.1
-- 1.1
+- 1.7
 
 #### Versions below Minecraft 1.7 are not affected and are safe to use. 
