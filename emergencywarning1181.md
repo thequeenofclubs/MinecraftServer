@@ -1,4 +1,4 @@
-## There has been an emergency security patch with Minecraft 1.18.1.
+## <span style="color:red"><u>There has been an emergency security patch with Minecraft 1.18.1.</u></span>
 
 ### What's the risk?
 The versions listed below are affected and can allow unpermitted and undisclosed entry into either your computer or your home network. 
