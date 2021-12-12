@@ -1,6 +1,12 @@
 
 # Our Server's Changelog
 
+### Minor Update - December 12, 2021
+
+#### Additions
+Updated server to version 1.18.1 to protect players against the Log4j security flaw. More details [here](/MinecraftServer/emergencywarning1181).  
+
+
 ## Major Update - December 3, 2021
 Aka the 1.18 Update  
 Click [here](/MinecraftServer/wiki/1-18) to see what Minecraft 1.18 brings to the table.  
