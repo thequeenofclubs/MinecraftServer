@@ -2,7 +2,7 @@
 
 ### What's the risk?
 The versions listed below are affected and can allow unpermitted and undisclosed entry into either your computer or your home network.  
-A security flaw in the java logging engine known as Log4j has been indentified and patched in version 1.18.1. This flaw has existed since version 1.7 and can be potentially exploited by those with sufficient techincal knowledge.  
+A security flaw in the java logging engine known as Log4j has been indentified and patched in version 1.18.1. This flaw has existed since version 1.7 and can be potentially exploited by those with sufficient technical knowledge.  
 <u><strong>Do not use versions prior to 1.18.1.</strong></u>
 ### Has it been solved?
 A security patch has been applied to version 1.18.1 and it is essential that you use this version or newer from now on.
