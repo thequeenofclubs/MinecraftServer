@@ -2,6 +2,9 @@
 
 # Server Info
 
+## <span style="color:red">EMERCENCY WARNING! DO NOT USE ANY VERSION LOWER THAN <u>1.18.1</u> UNLESS ABSOLUTELY NECESSARY!</span>
+### Details as to why can be found [here](/MinecraftServer/emergencywarning1181).
+
 ### Server IP Address: 99.246.96.44
 ### [<span style="color:DeepSkyBlue">View the Server Changelog</span>](/MinecraftServer/changelog)
 
