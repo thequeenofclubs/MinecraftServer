@@ -1,0 +1,1 @@
+### There has been an emergency security patch with Minecraft 1.18.1. Any and all versions below 1.18.1 are affected and can allow unpermitted and undisclosed entry into either your computer or your home network. A security patch has been applied to version 1.18.1 and it is essential that you use this version or newer from now on. Thank you!
