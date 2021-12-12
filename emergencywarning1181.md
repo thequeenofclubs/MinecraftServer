@@ -2,7 +2,7 @@
 
 ### What's the risk?
 The versions listed below are affected and can allow unpermitted and undisclosed entry into either your computer or your home network. 
-
+<span style="color:red"><u><strong>Do not use versions prior to 1.18.1.</strong></u></span>
 ### Has it been solved?
 A security patch has been applied to version 1.18.1 and it is essential that you use this version or newer from now on.
 
