@@ -15,7 +15,7 @@ Time Taken: Approx 16 hours
 #### M3 Seen from Gabe's House
 ![m3fc1](/MinecraftServer/assets/images/projectimages/m3fc1.png)
 
-#### More images of M3 can be found by clicking [here](/MinecraftServer/projects/m3).
+#### More images of M3 can be found by clicking [here](/MinecraftServer/wiki/m3).
 
 
 ### December 2021 - The Safe House
