@@ -150,8 +150,19 @@ The Pyramid is one of our greatest monuments on our server, mostly inspired by J
 
 [Back to the Wiki](/MinecraftServer/wiki)
 
+### September 2020 - Gabe's New House
+Facts: The foundation was built by Gabe and Julian in survival mode entirely. The Livingspace was built by Gabe in survival mode, and Gabe's farm was transferred during rebirth. It was also built in survival mode.  
+
+Construction Started: September 3, 2020  
+Construction Finished: September 29, 2020  
+Time taken: Approx 30 hours.  
+
+#### Gabe's House & Farm seen from M3 in December 2021.
+![gabeshouse](/MinecraftServer/assets/images/projectimages/gabeshouse.png)  
+
+
 ### July 2020 - The Hotel
-Facts:  
+Facts: Built by Gabe and Julian by hand in survival mode. Built with stone bricks and contains the most advanced elevator system on the server.  
 Construction Started July 5, 2020  
 Construction Finished July 7, 2020  
 Time taken: Approx 10 hours.  
