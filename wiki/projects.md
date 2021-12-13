@@ -3,6 +3,19 @@
 ## Our Server's Projects
 The projects on this page are listed in chronological order (newest first).  
 
+### December 2021 - The M3
+Facts:  
+Construction Started: December 12, 2021  
+Construction Finished: December 12, 2021  
+Time Taken: Approx 8 hours  
+
+
+### December 2021 - The Safe House
+Facts:  
+Construction Started: December 11, 2021  
+Construction Finished: December 11, 2021  
+Time Taken: Approx 3 hours  
+
 ### November 2021 - The Drowned Farm
 
 Facts:  
