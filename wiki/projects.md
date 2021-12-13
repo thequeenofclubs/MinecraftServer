@@ -6,8 +6,16 @@ The projects on this page are listed in chronological order (newest first).
 ### December 2021 - The M3
 Facts:  
 Construction Started: December 12, 2021  
-Construction Finished: December 12, 2021  
-Time Taken: Approx 8 hours  
+Construction Finished: December 13, 2021  
+Time Taken: Approx 8 hours
+
+#### M3 Seen from Gabe's Cabin
+![m3fc2](/MinecraftServer/assets/images/projectimages/m3fc2.png)
+
+#### M3 Seen from Gabe's House
+![m3fc1](/MinecraftServer/assets/images/projectimages/m3fc1.png)
+
+#### More images of M3 can be found by clicking [here](/MinecraftServer/projects/m3).
 
 
 ### December 2021 - The Safe House
@@ -15,6 +23,14 @@ Facts:
 Construction Started: December 11, 2021  
 Construction Finished: December 11, 2021  
 Time Taken: Approx 3 hours  
+
+#### The Safe House's Interior
+![safehouse](/MinecraftServer/assets/images/projectimages/safehouse1.png)
+#### The Safe House's Smelting Machine
+![safehousesmelter](/MinecraftServer/assets/images/projectimages/safehousesmelter.png)
+#### The Safe House's Brewing Station
+![safehousebrewery](/MinecraftServer/assets/images/projectimages/safehousepotions.png)
+
 
 ### November 2021 - The Drowned Farm
 
