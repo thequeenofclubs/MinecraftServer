@@ -4,10 +4,10 @@
 The projects on this page are listed in chronological order (newest first).  
 
 ### December 2021 - The M3
-Facts:  A full scale replica of the M3 Condo in Mississauga, Ontario.  Built entirely by hand by Gabe in survival mode. It is constructed out of cyan terracotta and sea lanterns. Gabe died 3 times during construction.  
+Facts:  A full scale replica of the M3 Condo in Mississauga, Ontario.  Built entirely by hand by Gabe in survival mode. Gabe died 3 times during construction.  
 Construction Started: December 12, 2021  
 Construction Finished: December 13, 2021  
-Time Taken: Two Weeks
+Time Taken: 83.2 Hours in Approximately Two Weeks.  
 
 #### M3 Seen from Gabe's Cabin
 ![m3fc2](/MinecraftServer/assets/images/projectimages/m3fc2.png)
@@ -15,7 +15,7 @@ Time Taken: Two Weeks
 #### M3 Seen from Gabe's House
 ![m3fc1](/MinecraftServer/assets/images/projectimages/m3fc1.png)
 
-#### More images of M3 can be found by clicking [here](/MinecraftServer/wiki/m3).
+#### More images and details of M3 can be found by clicking [here](/MinecraftServer/wiki/m3).
 
 
 ### December 2021 - The Safe House
