@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="/MinecraftServer/assets/css/light-darkmode.css">
-
 ## Vane Portals Guide
 So, here's the guide on how to use Vane's Portal system.
 

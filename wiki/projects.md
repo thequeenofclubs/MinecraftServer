@@ -7,7 +7,7 @@ The projects on this page are listed in chronological order (newest first).
 Facts:  A full scale replica of the M3 Condo in Mississauga, Ontario.  Built entirely by hand by Gabe in survival mode. Gabe died 3 times during construction.  
 Construction Started: December 12, 2021  
 Construction Finished: December 13, 2021  
-Time Taken: 83.2 Hours in Approximately Two Weeks.  
+Time Taken: 83.2 hours across approximately two weeks.  
 
 #### M3 Seen from Gabe's Cabin
 ![m3fc2](/MinecraftServer/assets/images/projectimages/m3fc2.png)
