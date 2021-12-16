@@ -1,5 +1,6 @@
 
 # Our Server's Changelog
+Here, you'll find a log of all changes made to the server, from an administrative point of view.  
 
 ### Minor Update - December 12, 2021
 
