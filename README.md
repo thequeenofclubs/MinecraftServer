@@ -16,6 +16,7 @@ The server is currently using Minecraft 1.18
 
 #### Whitelist
 The current list of whitelisted players can be found on the wiki [here](/MinecraftServer/whitelist).  
+Use this to see if your friends are able to join.  
 
 #### Wiki
 Thanks to Gabe's hard work, the server now has a WIP Wiki!  
