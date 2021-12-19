@@ -21,11 +21,9 @@ Here, you'll find a list of warps on our server, each with a screenshot of the l
 ## The Outside World
 ### The Bamboo Forest
 ### The *Closer* Mooshroom Biome
-### The Desert Flats
 ### The Desert Acacia Village
 ### The Farlands Lush Cave
 ### The Frozen Ocean
-### Geode #1
 ### Glacier Island
 ### Heart Lake
 ### The Ice Spikes Biome
@@ -36,10 +34,8 @@ Here, you'll find a list of warps on our server, each with a screenshot of the l
 ### The Pillager Outpost
 ### The Sand Village
 ### The Terracotta Mining Site
-### That One Random Beehive
 ### <span style="color:orange">The Border</span>
 ### The Cliffs
-### The First 1.17 Ravine
 ### The Wither Death Field
 ### The Woodland Mansion
 ## Gabe's House
@@ -57,12 +53,19 @@ Here, you'll find a list of warps on our server, each with a screenshot of the l
 ### Gabe's Storage Facility
 ### Gabe's Tree Farm
 ## Julian's Buildings
+### Julian's House
+### Julian's Brick
+### Julian's Castle
+### Julian's Castle Basement
+### Julian's Castle Storage
 ## The City
 ### The CN Tower
 #### CN Tower Interior
 #### CN Tower Observatory
 ### The Creative District
-### The Dent
+### The Arena (a.k.a. The Coliseum)
+#### The Arena Inside
+#### The Arena Seats
 ### The Holocaust Memorial
 ### The Storage Building
 ### The Condo Building
