@@ -155,7 +155,7 @@ Facts: The foundation was built by Gabe and Julian in survival mode entirely. Th
 
 Construction Started: September 3, 2020  
 Construction Finished: September 29, 2020  
-Time taken: Approx 30 hours.  
+Time taken: Approx 150 hours.  
 
 #### Gabe's House & Farm seen from M3 in December 2021.
 ![gabeshouse](/MinecraftServer/assets/images/projectimages/gabeshouse.png)  
@@ -165,7 +165,7 @@ Time taken: Approx 30 hours.
 Facts: Built by Gabe and Julian by hand in survival mode. Built with stone bricks and contains the most advanced elevator system on the server.  
 Construction Started July 5, 2020  
 Construction Finished July 7, 2020  
-Time taken: Approx 10 hours.  
+Time taken: Approx 50 hours.  
 One of the buildings transferred during [rebirth](/MinecraftServer/wiki/origin-story#rebirth).
 #### The Hotel Under Construction on Day 1
 ![The Hotel Under Construction on Day 1](/MinecraftServer/assets/images/projectimages/hotel-construct-1.png)
