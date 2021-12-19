@@ -15,7 +15,7 @@ The Wiki is broken up into several sections as follows:
 [Origin Story](/MinecraftServer/wiki/origin-story)  
 [Evolution](/MinecraftServer/wiki/evolution)  
 [1.18 Info](/MinecraftServer/wiki/1-18)  
-[Recipes](/MinecraftServer/wiki/recipes)
+[Recipes](/MinecraftServer/wiki/recipes)  
 [Warps](/MinecraftServer/warps)    
 [Projects](/MinecraftServer/wiki/projects)  
 [Plugins](/MinecraftServer/wiki/plugins)  
