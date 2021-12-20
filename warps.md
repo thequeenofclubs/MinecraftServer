@@ -177,7 +177,7 @@ This warp is a pretty significant one, since it exists where the 1.18 chunk gene
 ### Simi's Cabin
 ![simiscabin](/MinecraftServer/warps/simiscabin.png)
 ### Simi's Old House
-![simisoldhouse](/MinecraftServer/warps/simisoldhouse.png)
+![simishouse](/MinecraftServer/warps/simishouse.png)
 ### The Mines
 ![themines](/MinecraftServer/warps/themines.png)
 ### The Village
