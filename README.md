@@ -9,7 +9,7 @@
 ### [<span style="color:DeepSkyBlue">View the Server Changelog</span>](/MinecraftServer/changelog)
 
 ### Downtime
-<--! ### Unplanned Downtime will be here in <span style="color:red">red</span> if there is any. -->
+### Unplanned Downtime will be here in <span style="color:red">red</span> if there is any.
 ### <span style="color:red">Downtime: The server is currently down indefinetely until further notice.</span>
 #### <span style="color:blue">The server experiences planned downtime every week on Fridays at 8:00pm to conduct backups.</span>
 #### Version Info
