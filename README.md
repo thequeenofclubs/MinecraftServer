@@ -9,10 +9,11 @@
 ### [<span style="color:DeepSkyBlue">View the Server Changelog</span>](/MinecraftServer/changelog)
 
 ### Downtime
-### Unplanned Downtime will be here in <span style="color:red">red</span> if there is any.
+<--! ### Unplanned Downtime will be here in <span style="color:red">red</span> if there is any. -->
+### <span style="color:red">Downtime: The server is currently down indefinetely until further notice.</span>
 #### <span style="color:blue">The server experiences planned downtime every week on Fridays at 8:00pm to conduct backups.</span>
 #### Version Info
-The server is currently using Minecraft 1.18  
+The server is currently using Minecraft 1.18.1  
 
 #### Whitelist
 The current list of whitelisted players can be found on the wiki [here](/MinecraftServer/whitelist).  
