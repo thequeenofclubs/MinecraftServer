@@ -1,7 +1,4 @@
----
-layout: page
-title: Site Info
----
+
 ## Our Server's Site
 On This page, you'll find out how I run this website, as well as all the juicy technical details. *Trust me, it's pretty cool stuff.*  
 
