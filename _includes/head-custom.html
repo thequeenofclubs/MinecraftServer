@@ -14,6 +14,55 @@
 		<link rel="stylesheet" href="/MinecraftServer/assets/css/light-darkmode.css">
 		
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+		<script>
+			src = "/MinecraftServer/assets/scripts/nanobar.min.js"
+			var options = {
+				classname: 'my-class',
+				id: 'my-id'
+			};
+			var nanobar = new Nanobar( options );
+			nanobar.go( 30 );
+			nanobar.go( 76 );
+			nanobar.go(100);
+		</script>
 		
+		<style>
+			.my-class .bar {
+				background:#1C26EE;
+			}
+		</style>
+		
+		
+		<style>
+			.progress-bar {
+				background: linear-gradient(to right, dodgerblue var(--scroll), transparent 0);
+				background-repeat: no-repeat;
+				width: 100%;
+				position: fixed;
+				top: 0;
+				left: 0;
+				height: 2px;
+				z-index: 1;
+			}
+		</style>
+		
+		<!-- This is the bar which shows scroll percentage -->
+		<div class="progress-bar"></div>
+		
+		
+		<!-- Script used to generate --scroll variable with current scroll percentage value -->
+		<script>
+			var element = document.documentElement,
+			body = document.body,
+			scrollTop = 'scrollTop',
+			scrollHeight = 'scrollHeight',
+			progress = document.querySelector('.progress-bar'),
+			scroll;
+			
+			document.addEventListener('scroll', function() {
+				scroll = (element[scrollTop]||body[scrollTop]) / ((element[scrollHeight]||body[scrollHeight]) - element.clientHeight) * 100;
+				progress.style.setProperty('--scroll', scroll + '%');
+			});
+		</script>
 	</head>
 </html>
