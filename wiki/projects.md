@@ -3,6 +3,20 @@
 ## Our Server's Projects
 The projects on this page are listed in chronological order (newest first).  
 
+### February 2022 - Gabe's Lake House & The City of Birchwood
+The pages for these projects will be separate since they both have lots of images. Click the links below to see them:
+[Gabe's Lake House](/MinecraftServer/wiki/projects/glh)  
+[City of Birchwood](/MinecraftServer/wiki/projects/birchwood)  
+
+
+### January 2022 - The Odysseus Tower
+Facts: A large tower that is meant to look similar to the eye of sauron from the movie *The Lord of the Rings*.  
+Construction Finished: January 11, 2022  
+Time Taken: 5 Hours  
+
+#### Odysseus Tower seen from Gabe's House
+![odysseus](/MinecraftServer/assets/images/projectimages/birchwood/odysseus_tower.png)
+
 ### December 2021 - The M3
 Facts:  A full scale replica of the M3 Condo in Mississauga, Ontario.  Built entirely by hand by Gabe in survival mode. Gabe died 3 times during construction.  
 Construction Started: November 26, 2021  
