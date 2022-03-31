@@ -27,7 +27,7 @@ It's recommended to use optifine, which can be downloaded from optifine's websit
 
 The Server also uses a resource pack, which should be installed automatically by Minecraft when you join the server. If it doesn't, you can grab it [here](https://github.com/GabeThatGuy/MinecraftServer/raw/General-Info/Server-Resources/Resource%20Pack/vane-resource-pack.zip)  
 
-
+If you use OptiFine and your computer is powerful enough to run shaders, I suggest downloading and installing my shaderpack which is heavily based on continuity shaders. Grab it [here](https://github.com/GabeThatGuy/MinecraftServer/raw/General-Info/Server-Resources/shaderpack/gabes-shaders.zip).  
 
 #### Site Info
 Click [<span style ="color:red">here</span>](/MinecraftServer/site-info) to see how this site was built and how it's run.
