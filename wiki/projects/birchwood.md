@@ -1,6 +1,6 @@
 ## The City of Birchwood
-Facts: Designed to house villagers for trading, and to be a self-sustaining community with modern architecture built out of birch wood. 
-Date Completed: March 25, 2022
+Facts: Designed to house villagers for trading, and to be a self-sustaining community with modern architecture built out of birch wood.  
+Date Completed: March 25, 2022  
 
 ### The Birchwood Skyline
 ![bw-skyline](/MinecraftServer/assets/images/projectimages/birchwood/birchwood_skyline.png)

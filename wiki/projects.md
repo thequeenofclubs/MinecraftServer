@@ -4,9 +4,9 @@
 The projects on this page are listed in chronological order (newest first).  
 
 ### February 2022 - Gabe's Lake House & The City of Birchwood
-The pages for these projects will be separate since they both have lots of images. Click the links below to see them:
-[Gabe's Lake House](/MinecraftServer/wiki/projects/glh)  
-[City of Birchwood](/MinecraftServer/wiki/projects/birchwood)  
+The pages for these projects will be separate since they both have lots of images. Click the links below to see them:  
+[Gabe's Lake House](/MinecraftServer/wiki/projects/glh)   
+[City of Birchwood](/MinecraftServer/wiki/projects/birchwood)   
 
 
 ### January 2022 - The Odysseus Tower

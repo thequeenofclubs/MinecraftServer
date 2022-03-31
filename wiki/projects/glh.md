@@ -1,7 +1,7 @@
 ## Gabe's Lake House
-Facts: This is my lake house. It's designed to be a peaceful getaway type of cottage. 
-Time Taken: 15 Hours across one week.
-Date Completed: February 10, 2022
+Facts: This is my lake house. It's designed to be a peaceful getaway type of cottage.  
+Time Taken: 15 Hours across one week.  
+Date Completed: February 10, 2022  
 
 ### The Sunset at Gabe's Lake House
 ![glh-sunset](/MinecraftServer/assets/images/projectimages/birchwood/glh-sunset.png)
