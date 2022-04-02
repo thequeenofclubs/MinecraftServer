@@ -21,6 +21,12 @@
 				classname: 'my-class',
 				id: 'my-id'
 			};
+			var element = document.documentElement,
+			body = document.body,
+			scrollTop = 'scrollTop',
+			scrollHeight = 'scrollHeight',
+			progress = document.querySelector('.progress-bar'),
+			scroll;
 			var nanobar = new Nanobar(options);
 			nanobar.go(30);
 			nanobar.go(76);
@@ -52,18 +58,6 @@
 		<div class="my-class"></div>
 		
 		<!-- Script used to generate --scroll variable with current scroll percentage value -->
-		<script>
-			var element = document.documentElement,
-			body = document.body,
-			scrollTop = 'scrollTop',
-			scrollHeight = 'scrollHeight',
-			progress = document.querySelector('.progress-bar'),
-			scroll;
-			
-			document.addEventListener('scroll', function() {
-				scroll = (element[scrollTop]||body[scrollTop]) / ((element[scrollHeight]||body[scrollHeight]) - element.clientHeight) * 100;
-				progress.style.setProperty('--scroll', scroll + '%');
-			});
-		</script>
+		
 	</head>
 </html>
