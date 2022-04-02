@@ -15,18 +15,44 @@
 		
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 		
-		<script src="/MinecraftServer/assets/scripts/nanobar.js"></var options = {
-			bg: '#acf',
-			// left target blank for global nanobar
-			target: document.getElementById('myDivId'),
-			// id for new nanobar
-			id: 'mynano'
-		};
-			var nanobar = new Nanobar( options );
-			//move bar
-			nanobar.go( 30 ); // size bar 30%
-			// Finish progress bar
-			nanobar.go(100);script>
+		<script src="https://gabethatguy.github.io/MinecraftServer/assets/scripts/nanobar.js"></script>
+		<script>
+			var options = {
+				classname: 'my-class',
+				id: 'my-id'
+			};
+			var nanobar = new Nanobar(options);
+			
+		</script>
+		
+		<style>
+			.my-class .bar {
+				background:#1C26EE;
+			}
+		</style>
+		
+		
+		<style>
+			.progress-bar {
+				background: url('/MinecraftServer/assets/images/rainbow.gif') 100%;
+				background-repeat: no-repeat;
+				width: 100%;
+				position: fixed;
+				top: 0;
+				left: 0;
+				height: 2px;
+				z-index: 1;
+				border-radius: 4px;
+				box-shadow: 0 0 10px #59d;
+				margin: 0 auto;
+			}
+		</style>
+		
+		<!-- This is the bar which shows scroll percentage -->
+		
+		<div class="progress-bar"></div>
+		
+		<!-- Script used to generate --scroll variable with current scroll percentage value -->
 		
 	</head>
 </html>
