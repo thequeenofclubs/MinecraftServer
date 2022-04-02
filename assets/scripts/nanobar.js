@@ -123,7 +123,7 @@
     } else {
       // on top of the page
       el.style.position = 'fixed'
-      document.getElementsByTagName('body')[0].appendChild(el)
+      //document.getElementsByTagName('body')[0].appendChild(el)
     }
 
     init()
