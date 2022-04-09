@@ -7,6 +7,8 @@
 
 ### [<span style="color:DeepSkyBlue">View the Server Changelog</span>](/MinecraftServer/changelog)
 
+### A live, interactive map of the Minecraft Server can be accessed [here.](/MinecraftServer/interactivemap) 
+
 ### Downtime
 ### Unplanned Downtime will be here in <span style="color:red">red</span> if there is any.
 ### <span style="color:red">Downtime: The server is currently down indefinetely until further notice.</span>
