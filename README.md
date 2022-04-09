@@ -7,7 +7,7 @@
 
 ### [<span style="color:DeepSkyBlue">View the Server Changelog</span>](/MinecraftServer/changelog)
 
-### A live, interactive map of the Minecraft Server can be accessed [here.](/MinecraftServer/interactivemap) 
+### A live, interactive map of the Minecraft Server can be accessed [here.](http://gabesmcserver.ddns.net:8123) 
 
 ### Downtime
 ### Unplanned Downtime will be here in <span style="color:red">red</span> if there is any.
