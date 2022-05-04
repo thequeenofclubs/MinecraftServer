@@ -7,8 +7,8 @@
 ### <span style="color:purple">Gabe's Shader Pack is now available!</span>
 #### How to Install the Shaders
 1. Grab the shaderpack from [here.](https://github.com/GabeThatGuy/MinecraftServer/raw/General-Info/Server-Resources/shaderpack/gabes-shaders.zip)
-2. Extract the zip file (after extracting you should have a zip file and a text file with the same name).
-3. Copy the zip file and the txt file to your *shaderpacks* folder. (Can be accessed by clicking on the "open shaderpacks folder" button inside of your shaders menu in OptiFine. 
+2. Extract the zip file (after extracting you should have a zip file and a text file with the same name, the text file's name will include .zip).
+3. Copy the zip file and the txt file to your <span style="color:orange">*shaderpacks*</span> folder. (Can be accessed by clicking on the "open shaderpacks folder" button inside of your shaders menu in OptiFine. 
 4. Enable the shaders from within the game.
 5. Enjoy!
 
