@@ -4,3 +4,4 @@
 
 ### <button onclick="history.back()">Go Back</button>
 
+<h3 id="go-back" onclick="history.back()">Go Back</h3>
