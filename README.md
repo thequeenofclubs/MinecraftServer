@@ -2,9 +2,9 @@
 
 # Server Info
 
-## [<span style="color:red">In accordance with Minecraft's official recommendation, it is highly discouraged to use any version less than <u>1.18.1</u> unless absolutely necessary. Click this banner to learn more.</span>](/MinecraftServer/emergencywarning1181)
+### [<span style="color:red">In accordance with Minecraft's official recommendation, it is highly discouraged to use any version less than <u>1.18.1</u> unless absolutely necessary. Click this banner to learn more.</span>](/MinecraftServer/emergencywarning1181)
 
-### Gabe's Shader Pack is now available!
+### <span style="color:purple">Gabe's Shader Pack is now available!</span>
 #### How to Install the Shaders
 1. Grab the shaderpack from [here.](/MinecraftServer/linkunavailable)
 2. Extract the zip file (after extracting you should have a zip file and a text file with the same name).
@@ -21,6 +21,7 @@
 ### Unplanned Downtime will be here in <span style="color:red">red</span> if there is any.
 
 #### <span style="color:blue">The server experiences planned downtime every week on Fridays at 8:00pm to conduct backups.</span>
+
 #### Version Info
 The server is currently using Minecraft 1.18.1  
 
