@@ -6,7 +6,7 @@
 
 ### <span style="color:purple">Gabe's Shader Pack is now available!</span>
 #### How to Install the Shaders
-1. Grab the shaderpack from [here.](/MinecraftServer/linkunavailable)
+1. Grab the shaderpack from [here.](https://github.com/GabeThatGuy/MinecraftServer/raw/General-Info/Server-Resources/shaderpack/gabes-shaders.zip)
 2. Extract the zip file (after extracting you should have a zip file and a text file with the same name).
 3. Copy the zip file and the txt file to your *shaderpacks* folder. (Can be accessed by clicking on the "open shaderpacks folder" button inside of your shaders menu in OptiFine. 
 4. Enable the shaders from within the game.
@@ -38,7 +38,6 @@ It's recommended to use OptiFine, which can be downloaded from OptiFine's websit
 
 The Server also uses a resource pack, which should be installed automatically by Minecraft when you join the server. If it doesn't, you can grab it [here](https://github.com/GabeThatGuy/MinecraftServer/raw/General-Info/Server-Resources/Resource%20Pack/vane-resource-pack.zip)  
 
-If you use OptiFine and your computer is powerful enough to run shaders, I suggest downloading and installing my shaderpack which is heavily based on continuity shaders. Grab it [here](https://github.com/GabeThatGuy/MinecraftServer/raw/General-Info/Server-Resources/shaderpack/gabes-shaders.zip).  
 
 #### Site Info
 Click [<span style ="color:red">here</span>](/MinecraftServer/site-info) to see how this site was built and how it's run.
