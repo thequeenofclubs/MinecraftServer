@@ -2,7 +2,15 @@
 
 # Server Info
 
-## [<span style="color:red">EMERCENCY WARNING! DO NOT USE ANY VERSION LOWER THAN <u>1.18.1</u> UNLESS ABSOLUTELY NECESSARY! CLICK ON THIS WARNING FOR MORE INFO.</span>](/MinecraftServer/emergencywarning1181)
+## [<span style="color:red">In accordance with Minecraft's official recommendation, it is highly discouraged to use any version less than <u>1.18.1</u> unless absolutely necessary. Click this banner to learn more.</span>](/MinecraftServer/emergencywarning1181)
+
+### Gabe's Shader Pack is now available!
+#### How to Install the Shaders
+1. Grab the shaderpack from [here.](/MinecraftServer/linkunavailable)
+2. Extract the zip file (after extracting you should have a zip file and a text file with the same name).
+3. Copy the zip file and the txt file to your *shaderpacks* folder. (Can be accessed by clicking on the "open shaderpacks folder" button inside of your shaders menu in OptiFine. 
+4. Enable the shaders from within the game.
+5. Enjoy!
 
 
 ### [<span style="color:DeepSkyBlue">View the Server Changelog</span>](/MinecraftServer/changelog)
