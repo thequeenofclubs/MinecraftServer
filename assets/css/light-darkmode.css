@@ -1,4 +1,10 @@
 
+/* Smooth Scrolling */
+html {
+scroll-behavior: smooth;
+}
+
+
 
 /* Light mode */
 @media (prefers-color-scheme: light) {
