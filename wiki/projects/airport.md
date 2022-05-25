@@ -21,7 +21,8 @@
 
 #### May 10, 2022
 - 5:40 PM: Elevation Devices for Monorail Towers are Complete
-- 
+- 6:58 PM: Monorail Lighting is Complete
+
 
 
 
