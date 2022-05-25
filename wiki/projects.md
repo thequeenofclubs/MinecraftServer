@@ -1,7 +1,17 @@
 
 
 ## Our Server's Projects
-The projects on this page are listed in chronological order (newest first).  
+The projects on this page are listed in chronological order (newest first). 
+
+### May 2022 - The Wraith
+The wraith has a separate page from this one, so click [here](/MinecraftServer/wiki/projects/wraith) to learn more. 
+
+### April 2022 - The Airport
+The Airport is one of the biggest projects on the server. It took hours of planning and even more hours of building. The construction log for the airport can be found [here](/MinecraftServer/wiki/projects/airport).
+
+
+
+### March 2022 - Gabe's Castle & The Lighthouse
 
 ### February 2022 - Gabe's Lake House & The City of Birchwood
 The pages for these projects will be separate since they both have lots of images. Click the links below to see them:  
