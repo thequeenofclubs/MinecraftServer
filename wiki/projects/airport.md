@@ -19,6 +19,9 @@
 - 3:44 PM: Monorail Tracks are Complete
 - 3:44 PM: Stopped for the day.
 
+#### May 10, 2022
+- 5:40 PM: Elevation Devices for Monorail Towers are Complete
+- 
 
 
 
