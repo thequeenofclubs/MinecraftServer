@@ -17,7 +17,7 @@
 
 ### A live, interactive map of the Minecraft Server can be accessed [here.](http://gabesmcserver.ddns.net:8123) 
 
-### [Check your Internet Ping and Speed](/MinecraftServer/speedtest)  
+### [Check your Internet Ping and Speed](https://gabetest.speedtestcustom.com)  
 
 
 ### Downtime
