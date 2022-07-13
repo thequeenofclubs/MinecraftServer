@@ -2,7 +2,7 @@
 
 # Server Info
 
-### [<span style="color:red">In accordance with Minecraft's official recommendation, it is highly discouraged to use any version less than <u>1.18.1</u> unless absolutely necessary. Click this banner to learn more.</span>](/MinecraftServer/emergencywarning1181)
+> ### [<span style="color:red">In accordance with Minecraft's official recommendation, it is highly discouraged to use any version less than <u>1.18.1</u> unless absolutely necessary. Click this banner to learn more.</span>](/MinecraftServer/emergencywarning1181)
 
 ### <span style="color:purple">Gabe's Shader Pack is now available!</span>
 #### How to Install the Shaders
