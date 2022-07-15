@@ -2,7 +2,7 @@
 # Our Server's Changelog
 Here, you'll find a log of all changes made to the server, from an administrative point of view.  
 
-### Minor Update // <span style="color:red">Critical</span>- December 12, 2021
+### Minor Update // <span style="color:red">Critical</span> - December 12, 2021
 
 #### Additions
 Updated server to version 1.18.1 to protect players against the Log4j security flaw. More details [here](/MinecraftServer/emergencywarning1181).  
