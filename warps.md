@@ -1,5 +1,6 @@
 ## Our Server's Warps
 Here, you'll find a list of warps on our server, each with a screenshot of the location. Organized by District.  
+> Last Updated: December 23, 2021
 
 ## Transitways
 ### 2-jh-1
@@ -63,7 +64,7 @@ Here, you'll find a list of warps on our server, each with a screenshot of the l
 ### The Terracotta Mining Site
 ![terracottaminingsite](/MinecraftServer/warps/terracottaminingsite.png)
 ### <span style="color:orange">The Border</span>
-This warp is a pretty significant one, since it exists where the 1.18 chunk generation begins. 
+This warp is a pretty significant one, since it exists where the 1.18 chunk generation begins.
 ![theborder](/MinecraftServer/warps/theborder.png)
 ### The Cliffs
 ![thecliffs](/MinecraftServer/warps/thecliffs.png)
@@ -211,8 +212,3 @@ This warp is a pretty significant one, since it exists where the 1.18 chunk gene
 ![xpfarm](/MinecraftServer/warps/xpfarm.png)
 ### The End City
 ![endcity](/MinecraftServer/warps/endcity.png)
-
-
-
-
-
