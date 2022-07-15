@@ -1,5 +1,7 @@
 <link rel="stylesheet" href="assets/css/light-darkmode.css">
 
+<div class='callout-left full'><h3>Main Info</h3><p>Main Callout Box Text. Goes here!</p></div>
+
 # Server Info
 
 > ### [<span style="color:red">In accordance with Minecraft's official recommendation, it is highly discouraged to use any version less than <u>1.18.1</u> unless absolutely necessary. Click this banner to learn more.</span>](/MinecraftServer/emergencywarning1181)
