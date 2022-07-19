@@ -29,6 +29,9 @@ The Wiki is broken up into several sections as follows:
 [Warps](/MinecraftServer/warps)    
 [Projects](/MinecraftServer/wiki/projects)  
 
+#### [<span style="color:SkyBlue">New!</span>] Games
+[BowBall](/MinecraftServer/wiki/bowball/bowballinfo)  
+
 
 
 #### Gabe, Krissy, Emily and Julian at the Two Year Celebration Firework Festival in July 2021

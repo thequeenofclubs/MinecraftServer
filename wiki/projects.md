@@ -3,6 +3,31 @@
 ## Our Server's Projects
 The projects on this page are listed in chronological order (newest first). 
 
+### July 2022 - The BowBall Court
+> Note: This court is functional! Click [here](/MinecraftServer/wiki/bowball/bowballinfo) to learn how to play.
+
+Facts: Constructed on July 18th, 2022.
+Time Taken: 3 Hours
+
+### Images
+
+#### The Sideroom
+![sideroom](/MinecraftServer/assets/images/projectimages/bowballcourt/sideroom.png)
+
+#### The Armoury and Player Cache Room
+![armoury](/MinecraftServer/assets/images/projectimages/bowballcourt/armoury.png)
+
+#### The Court Layout
+![court](/MinecraftServer/assets/images/projectimages/bowballcourt/court.png)
+
+#### The Net
+![net](/MinecraftServer/assets/images/projectimages/bowballcourt/net.png)  
+
+#### The View from the Court
+![view](/MinecraftServer/assets/images/projectimages/bowballcourt/view.png)
+
+
+
 ### May 2022 - The Wraith
 The wraith has a separate page from this one, so click [here](/MinecraftServer/wiki/projects/wraith) to learn more. 
 
