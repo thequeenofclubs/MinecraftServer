@@ -6,8 +6,9 @@ The projects on this page are listed in chronological order (newest first).
 ### July 2022 - The BowBall Court
 > Note: This court is functional! Click [here](/MinecraftServer/wiki/bowball/bowballinfo) to learn how to play.
 
-Facts: Constructed on July 18th, 2022.
-Time Taken: 3 Hours
+Facts:  
+- Constructed on July 18th, 2022.  
+- Time Taken: 3 Hours
 
 ### Images
 
