@@ -12,6 +12,8 @@ Here is the full list of plugins:
 7. ViaVersion
 8. Chunky
 9. LightCleaner
+10. Geyser
+11. Waterfall
 
 Note, these plugins add craftable items, whose recipes can be found on the [recipes](/MinecraftServer/Wiki/recipes) page.
 
@@ -44,6 +46,12 @@ Enables pre-rendering of the world. Makes performance buttery smooth while walki
 
 ## LightCleaner
 Mainly to fix the lighting from the restored buildings during [rebirth](/MinecraftServer/wiki/origin-story#rebirth).  
+
+## Geyser
+Allows players to join the server from bedrock edition clients without jeapordizing java edition gameplay.
+
+## Waterfall
+Allows bedrock edition players who do not own java edition to play on the server. 
 
 
 

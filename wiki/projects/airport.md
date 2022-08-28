@@ -24,5 +24,8 @@
 - 6:58 PM: Monorail Lighting is Complete
 
 
+> As of August 28, 2022, the airport construction project is postponed until further notice. 
+
+
 
 

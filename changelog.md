@@ -2,6 +2,12 @@
 # Our Server's Changelog
 Here, you'll find a log of all changes made to the server, from an administrative point of view.  
 
+## Major Update - August 28, 2021
+#### Additions
+- Added Geyser and Waterfall to allow cross-platform playing on java edition and bedrock edition.
+- Added ViaVersion and ViaBackwards to allow players to play on any minecraft version they prefer.
+- Updated server version to 1.19.
+
 ### Minor Update // <span style="color:red">Critical</span> - December 12, 2021
 
 #### Additions
