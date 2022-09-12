@@ -6,7 +6,6 @@ Here, you'll find the list of players that are permitted to join the server. Use
 - julesalex
 - iKnowNothingHelp
 - TinyPurplePerson
-- krissyrat
 
 [Back to Wiki](/MinecraftServer/wiki)  
 [Back to Homepage](/MinecraftServer)  
