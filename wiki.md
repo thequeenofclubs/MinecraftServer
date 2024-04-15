@@ -35,7 +35,7 @@ The Wiki is broken up into several sections as follows:
 
 
 
-#### Gabe, Krissy, Emily and Julian at the Two Year Celebration Firework Festival in July 2021
+#### Valerie, Krissy, Emily and Julian at the Two Year Celebration Firework Festival in July 2021
 ![2yrparty](/MinecraftServer/assets/images/projectimages/2-year-anniversary-party.png)
 
 
