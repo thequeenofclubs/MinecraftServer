@@ -1,4 +1,4 @@
-## Gabe's Minecraft Server Inter-World Airport
+## TRMC's Minecraft Server Inter-World Airport
 
 ### The Construction Log
 #### Monday, April 4, 2022

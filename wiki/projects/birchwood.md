@@ -5,7 +5,7 @@ Date Completed: March 25, 2022
 ### The Birchwood Skyline
 ![bw-skyline](/MinecraftServer/assets/images/projectimages/birchwood/birchwood_skyline.png)
 
-### Birchwood and Gabe's Lake House Subway Station
+### Birchwood and Valerie's Lake House Subway Station
 ![bw-subway](/MinecraftServer/assets/images/projectimages/birchwood/birchwood_subway.png)
 
 ### The Main Street of Birchwood

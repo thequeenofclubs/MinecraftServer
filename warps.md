@@ -72,32 +72,32 @@ This warp is a pretty significant one, since it exists where the 1.18 chunk gene
 ![witherdeathfield](/MinecraftServer/warps/witherdeathfield.png)
 ### The Woodland Mansion
 ![woodlandmansion](/MinecraftServer/warps/woodlandmansion.png)
-## Gabe's House
-### Gabe's House
+## Valerie's House
+### Valerie's House
 ![gabeshouse](/MinecraftServer/warps/gabeshouse.png)
-### Gabe's Apartment
+### Valerie's Apartment
 ![gabesapartment](/MinecraftServer/warps/gabesapartment.png)
-### Gabe's Bee Farm
+### Valerie's Bee Farm
 ![gabesbeefarm](/MinecraftServer/warps/gabesbeefarm.png)
-### Gabe's Cabin
+### Valerie's Cabin
 ![gabescabin](/MinecraftServer/warps/gabescabin.png)
-### Gabe's Chorus Garden
+### Valerie's Chorus Garden
 ![gabeschorusgarden](/MinecraftServer/warps/gabeschorusgarden.png)
-### Gabe's Farm
+### Valerie's Farm
 ![gabesfarm](/MinecraftServer/warps/gabesfarm.png)
-### Gabe's Garden
+### Valerie's Garden
 ![gabesgarden](/MinecraftServer/warps/gabesgarden.png)
-### Gabe's Geode
+### Valerie's Geode
 ![gabesgeode](/MinecraftServer/warps/gabesgeode.png)
-### Gabe's Nether Garden
+### Valerie's Nether Garden
 ![gabesnethergarden](/MinecraftServer/warps/gabesnethergarden.png)
-### Gabe's Park
+### Valerie's Park
 ![gabespark](/MinecraftServer/warps/gabespark.png)
-### Gabe's Smeltery
+### Valerie's Smeltery
 ![gabessmeltery](/MinecraftServer/warps/gabessmeltery.png)
-### Gabe's Storage Facility
+### Valerie's Storage Facility
 ![gabesstoragefacility](/MinecraftServer/warps/gabesstoragefacility.png)
-### Gabe's Tree Farm
+### Valerie's Tree Farm
 ![gabestreefarm](/MinecraftServer/warps/gabestreefarm.png)
 ## Julian's Buildings
 ### Julian's House

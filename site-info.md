@@ -2,7 +2,7 @@
 On This page, you'll find out how I run this website, as well as all the juicy technical details. *Trust me, it's pretty cool stuff.*  
 
 ### Development
-This site was entirely written in Markdown by Gabe. Markdown is a syntax of HTML, and it makes it much faster to code a new page, rather than having to type out all the individual html tags.  
+This site was entirely written in Markdown by Valerie. Markdown is a syntax of HTML, and it makes it much faster to code a new page, rather than having to type out all the individual html tags.  
 
 ### Hosting
 This site is hosted by GitHub Pages, and the website is built from the files in the repository. Each page of this site has its own .md file in the repository and these files can be organized into folders. GitHub Pages then takes these .md files and translates them into HTML, and applies the CSS that is also stored in the repository. It's then up to me to add links to the .md files to other pages on the site.

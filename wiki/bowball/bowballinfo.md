@@ -1,6 +1,6 @@
 ## BowBall Game
-#### By Gabe
-> The fundamentals of this page can be found within the game at the BowBall court, but it is still highly recommended to read this page if you are not playing with Gabe or have not memorized the rules!
+#### By Valerie
+> The fundamentals of this page can be found within the game at the BowBall court, but it is still highly recommended to read this page if you are not playing with Valerie or have not memorized the rules!
 
 ## Instructions
 There shall be a maximum of two teams, each with a maximum of six players. The goal of each player is to shoot the targets mounted on the opposing team's net with a bow. <u>Target blocks look like a target with red circles and a white background.</u> A successful shot will illuminate the light inside the net, indicating how many points were received. The length of a game shall be 8 minutes or 40 minutes, and should be conducted in 4 quarters. Each quarter shall be 2 minutes long (8 minute game) or 10 minutes (40 minute game). After each game, the scores from all players should be summed and then the winner of the game shall be determined.

@@ -37,11 +37,11 @@ The Airport is one of the biggest projects on the server. It took hours of plann
 
 
 
-### March 2022 - Gabe's Castle & The Lighthouse
+### March 2022 - Valerie's Castle & The Lighthouse
 
-### February 2022 - Gabe's Lake House & The City of Birchwood
+### February 2022 - Valerie's Lake House & The City of Birchwood
 The pages for these projects will be separate since they both have lots of images. Click the links below to see them:  
-[Gabe's Lake House](/MinecraftServer/wiki/projects/glh)   
+[Valerie's Lake House](/MinecraftServer/wiki/projects/glh)   
 [City of Birchwood](/MinecraftServer/wiki/projects/birchwood)   
 
 
@@ -50,19 +50,19 @@ Facts: A large tower that is meant to look similar to the eye of sauron from the
 Construction Finished: January 11, 2022  
 Time Taken: 5 Hours  
 
-#### Odysseus Tower seen from Gabe's House
+#### Odysseus Tower seen from Valerie's House
 ![odysseus](/MinecraftServer/assets/images/projectimages/birchwood/odysseus_tower.png)
 
 ### December 2021 - The M3
-Facts:  A full scale replica of the M3 Condo in Mississauga, Ontario.  Built entirely by hand by Gabe in survival mode. Gabe died 3 times during construction.  
+Facts:  A full scale replica of the M3 Condo in Mississauga, Ontario.  Built entirely by hand by Valerie in survival mode. Valerie died 3 times during construction.  
 Construction Started: November 26, 2021  
 Construction Finished: December 15, 2021  
 Time Taken: 83.2 hours across approximately two weeks.  
 
-#### M3 Seen from Gabe's Cabin
+#### M3 Seen from Valerie's Cabin
 ![m3fc2](/MinecraftServer/assets/images/projectimages/m3fc2.png)
 
-#### M3 Seen from Gabe's House
+#### M3 Seen from Valerie's House
 ![m3fc1](/MinecraftServer/assets/images/projectimages/m3fc1.png)
 
 #### More images and details of M3 can be found by clicking [here](/MinecraftServer/wiki/m3).
@@ -102,7 +102,7 @@ Facts:
 Construction Started: November 16, 2021  
 Construction Finished: November 16, 2021  
 Time Taken: Approx 2 hours  
-Collaborative Build by Gabe & Krissy  
+Collaborative Build by Valerie & Krissy  
 
 #### The Copper Man seen from Giant's Park  
 ![copperman](/MinecraftServer/assets/images/projectimages/copperman.png)  
@@ -132,7 +132,7 @@ Time Taken: Approx 30 hours
 The CN Tower Alone took Approx 8 hours total to construct.  
 Many Buildings in the City Skyline were transferred during [rebirth](/MinecraftServer/wiki/origin-story#rebirth).  
 
-#### The City Skyline Seen From Gabe's House
+#### The City Skyline Seen From Valerie's House
 ![city-close](/MinecraftServer/assets/images/projectimages/city-close.png)
 
 #### The City Skyline Seen From McDonalds
@@ -147,7 +147,7 @@ Facts:
 Construction Started: Early June, 2021  
 Construction Finished: October 30, 2021  
 Time Taken: Approx 40 hours  
-Parts of Giant's Park were transferred during [rebirth](/MinecraftServer/wiki/origin-story#rebirth), and parts were built by Gabe & Krissy in the new world.  
+Parts of Giant's Park were transferred during [rebirth](/MinecraftServer/wiki/origin-story#rebirth), and parts were built by Valerie & Krissy in the new world.  
 
 #### View of Giant's Park from the BeaconTree.
 ![giantspark](/MinecraftServer/assets/images/projectimages/giantspark.png)
@@ -171,18 +171,18 @@ The Arena has a floor built of obsidian and glowstone, with walls made of sandst
 [Back to the Wiki](/MinecraftServer/wiki)
 
 
-### August 2021 - Gabe's Cabin
+### August 2021 - Valerie's Cabin
 
 Facts:  
 Construction Started: Early August, 2021  
 Construction Finished: Mid August, 2021  
 Time Taken: Approx 6 hours  
-Gabe's cabin has the only automatic lighting system on the server.
+Valerie's cabin has the only automatic lighting system on the server.
 
-#### Gabe's Cabin: Exterior.
+#### Valerie's Cabin: Exterior.
 ![gabescabin1](/MinecraftServer/assets/images/projectimages/gabescabin1.png)
 
-#### Gabe's Cabin: Interior.
+#### Valerie's Cabin: Interior.
 ![gabescabin2](/MinecraftServer/assets/images/projectimages/gabescabin2.png)
 
 [Back to the Wiki](/MinecraftServer/wiki)
@@ -200,19 +200,19 @@ The Pyramid is one of our greatest monuments on our server, mostly inspired by J
 
 [Back to the Wiki](/MinecraftServer/wiki)
 
-### September 2020 - Gabe's New House
-Facts: The foundation was built by Gabe and Julian in survival mode entirely. The Livingspace was built by Gabe in survival mode, and Gabe's farm was transferred during rebirth. It was also built in survival mode.  
+### September 2020 - Valerie's New House
+Facts: The foundation was built by Valerie and Julian in survival mode entirely. The Livingspace was built by Valerie in survival mode, and Valerie's farm was transferred during rebirth. It was also built in survival mode.  
 
 Construction Started: September 3, 2020  
 Construction Finished: September 29, 2020  
 Time taken: Approx 150 hours.  
 
-#### Gabe's House & Farm seen from M3 in December 2021.
+#### Valerie's House & Farm seen from M3 in December 2021.
 ![gabeshouse](/MinecraftServer/assets/images/projectimages/gabeshouse.png)  
 
 
 ### July 2020 - The Hotel
-Facts: Built by Gabe and Julian by hand in survival mode. Built with stone bricks and contains the most advanced elevator system on the server.  
+Facts: Built by Valerie and Julian by hand in survival mode. Built with stone bricks and contains the most advanced elevator system on the server.  
 Construction Started July 5, 2020  
 Construction Finished July 7, 2020  
 Time taken: Approx 50 hours.  
