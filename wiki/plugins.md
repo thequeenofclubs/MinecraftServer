@@ -45,7 +45,7 @@ To manage permissions for different members, as well as to fix unwanted behaviou
 A simple plugin to rename things via commands.
 
 ## ViaVersion
-Allows players to join from different Minecraft Versions. Our server supports versions 1.9.x - 1.17.1.
+Allows players to join from different Minecraft Versions. Our server supports versions 1.7.x - 1.20.4.
 
 ## Chunky
 Enables pre-rendering of the world. Makes performance buttery smooth while walking around.
