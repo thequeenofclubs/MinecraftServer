@@ -10,16 +10,12 @@ Here is the full list of plugins:
 5. LuckPerms
 6. SimpleRename
 7. ViaVersion
-8. Chunky
-9. LightCleaner
-10. Geyser
-11. Waterfall
-12. CoordinatesHud
-13. DeadChest
-14. Floodgate
-15. Multiverse
-16. Pl3xMap
-17. ViaBackwards & ViaVersion
+8. Geyser, Waterfall and Floodgate
+19. CoordinatesHud
+10. DeadChest
+11. Multiverse
+12. Pl3xMap
+13. ViaBackwards & ViaVersion
 
 Note, these plugins add craftable items, whose recipes can be found on the [recipes](/MinecraftServer/wiki/recipes) page.
 
@@ -47,17 +43,8 @@ A simple plugin to rename things via commands.
 ## ViaVersion
 Allows players to join from different Minecraft Versions. Our server supports versions 1.7.x - 1.20.4.
 
-## Chunky
-Enables pre-rendering of the world. Makes performance buttery smooth while walking around.
-
-## LightCleaner
-Mainly to fix the lighting from the restored buildings during [rebirth](/MinecraftServer/wiki/origin-story#rebirth).  
-
-## Geyser
-Allows players to join the server from bedrock edition clients without jeapordizing java edition gameplay.
-
-## Waterfall
-Allows bedrock edition players who do not own java edition to play on the server. 
+## Geyser, Waterfall and Floodgate
+Allows players to join the server from bedrock edition clients even if they do not own Minecraft Java Edition
 
 ## CoordinatesHUD
 CoordinatesHUD is a useful plugin that displays the player's coordinates on the screen. This is particularly helpful for players who need to navigate through the world or share specific locations with others. The plugin enhances the gameplay experience by providing essential location information at a glance.
@@ -65,8 +52,6 @@ CoordinatesHUD is a useful plugin that displays the player's coordinates on the 
 ## DeadChest
 DeadChest is a plugin that stores the contents of player's in a chest upon death. Players can then teleport to that location when they die and retrieve their items. This serves as a middle ground between ``keepInventory`` and the vanilla behaviour, since players still have to make their way back to where they died, without having to worry about their items despawning.
 
-## Floodgate
-Floodgate is a plugin that allows players to join the server from bedrock edition clients without jeapordizing java edition gameplay.
 
 ## Multiverse
 Multiverse is a plugin that allows for the creation of multiple worlds within the same server instance. This is useful for creating separate game modes or environments for players to explore. For example, you can create a world for survival players to explore, and a world for creative players to build their own worlds.
