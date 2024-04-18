@@ -26,7 +26,7 @@
 #### <span style="color:blue">The server experiences planned downtime every week on Fridays at 8:00pm to conduct backups.</span>
 
 #### Version Info
-The server is currently using Minecraft 1.18.1  
+The server is currently using Minecraft 1.20.4  
 
 #### Whitelist
 The current list of whitelisted players can be found on the wiki [here](/MinecraftServer/whitelist).  
