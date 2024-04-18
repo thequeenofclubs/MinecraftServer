@@ -17,11 +17,11 @@ And that's it! Your portal is set up and ready to use, just click on the console
 
 ### List of Portal Destinations
 Last updated November 27, 2021  
-- Gabe's House  
+- Valerie's House  
 - Main House  
 - The City via The Spire  
 - The Woodland Mansion  
-- Gabe's Cabin  
+- Valerie's Cabin  
 
 
 
