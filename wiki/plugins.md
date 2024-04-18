@@ -21,7 +21,7 @@ Here is the full list of plugins:
 16. Pl3xMap
 17. ViaBackwards & ViaVersion
 
-Note, these plugins add craftable items, whose recipes can be found on the [recipes](/MinecraftServer/Wiki/recipes) page.
+Note, these plugins add craftable items, whose recipes can be found on the [recipes](/MinecraftServer/wiki/recipes) page.
 
 
 ## Essentials
