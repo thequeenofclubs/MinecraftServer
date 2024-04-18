@@ -11,11 +11,10 @@ Here is the full list of plugins:
 6. SimpleRename
 7. ViaVersion
 8. Geyser, Waterfall and Floodgate
-19. CoordinatesHud
+9. CoordinatesHud
 10. DeadChest
 11. Multiverse
 12. Pl3xMap
-13. ViaBackwards & ViaVersion
 
 Note, these plugins add craftable items, whose recipes can be found on the [recipes](/MinecraftServer/wiki/recipes) page.
 
@@ -59,8 +58,6 @@ Multiverse is a plugin that allows for the creation of multiple worlds within th
 ## Pl3xMap
 Pl3xMap is a plugin that allows players to view the world map from a web browser. This is particularly useful for players who need to navigate through the world or share specific locations with others.
 
-## ViaBackwards & ViaVersion
-ViaBackwards is a plugin that allows players to join the server from older minecraft versions without jeapordizing gameplay. ViaVersion is a plugin that allows players to join the server from newer Minecraft versions.
 
 
 
