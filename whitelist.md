@@ -7,6 +7,7 @@ Here, you'll find the list of players that are permitted to join the server. Use
 - iKnowNothingHelp
 - TinyPurplePerson
 - Ava_64
+- PikaIsDumb
 - FlossyPetals
 - SweetMangoLassi
 
