@@ -15,7 +15,7 @@
 
 ### [<span style="color:DeepSkyBlue">View the Server Changelog</span>](/MinecraftServer/changelog)
 
-### A live, interactive map of the Minecraft Server can be accessed [here.](http://gabesmcserver.ddns.net:8123) 
+### A live, interactive map of the Minecraft Server can be accessed [here.](http://99.245.94.208:8123) 
 
 ### [Check your Internet Ping and Speed](https://gabetest.speedtestcustom.com)  
 
@@ -26,11 +26,10 @@
 #### <span style="color:blue">The server experiences planned downtime every week on Fridays at 8:00pm to conduct backups.</span>
 
 #### Version Info
-The server is currently using Minecraft 1.20.4  
+The server is currently using Minecraft 1.21, but is compatible with all versions newer than 1.7.10 (inclusive).
 
 #### Whitelist
-The current list of whitelisted players can be found on the wiki [here](/MinecraftServer/whitelist).  
-Use this to see if your friends are able to join.  
+The server employs a whitelist for access control. Please contact Valerie to find out who is whitelisted, or to add your friend to the whitelist.
 
 #### Wiki
 Thanks to Valerie's hard work, the server now has a WIP Wiki!  
